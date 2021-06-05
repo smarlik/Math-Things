@@ -1,0 +1,1884 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<office:document xmlns:meta="urn:oasis:names:tc:opendocument:xmlns:meta:1.0" xmlns:office="urn:oasis:names:tc:opendocument:xmlns:office:1.0" xmlns:fo="urn:oasis:names:tc:opendocument:xmlns:xsl-fo-compatible:1.0" xmlns:ooo="http://openoffice.org/2004/office" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:style="urn:oasis:names:tc:opendocument:xmlns:style:1.0" xmlns:config="urn:oasis:names:tc:opendocument:xmlns:config:1.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:text="urn:oasis:names:tc:opendocument:xmlns:text:1.0" xmlns:draw="urn:oasis:names:tc:opendocument:xmlns:drawing:1.0" xmlns:dr3d="urn:oasis:names:tc:opendocument:xmlns:dr3d:1.0" xmlns:svg="urn:oasis:names:tc:opendocument:xmlns:svg-compatible:1.0" xmlns:chart="urn:oasis:names:tc:opendocument:xmlns:chart:1.0" xmlns:rpt="http://openoffice.org/2005/report" xmlns:table="urn:oasis:names:tc:opendocument:xmlns:table:1.0" xmlns:number="urn:oasis:names:tc:opendocument:xmlns:datastyle:1.0" xmlns:ooow="http://openoffice.org/2004/writer" xmlns:oooc="http://openoffice.org/2004/calc" xmlns:of="urn:oasis:names:tc:opendocument:xmlns:of:1.2" xmlns:tableooo="http://openoffice.org/2009/table" xmlns:calcext="urn:org:documentfoundation:names:experimental:calc:xmlns:calcext:1.0" xmlns:drawooo="http://openoffice.org/2010/draw" xmlns:loext="urn:org:documentfoundation:names:experimental:office:xmlns:loext:1.0" xmlns:field="urn:openoffice:names:experimental:ooo-ms-interop:xmlns:field:1.0" xmlns:math="http://www.w3.org/1998/Math/MathML" xmlns:form="urn:oasis:names:tc:opendocument:xmlns:form:1.0" xmlns:script="urn:oasis:names:tc:opendocument:xmlns:script:1.0" xmlns:dom="http://www.w3.org/2001/xml-events" xmlns:xforms="http://www.w3.org/2002/xforms" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:formx="urn:openoffice:names:experimental:ooxml-odf-interop:xmlns:form:1.0" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:grddl="http://www.w3.org/2003/g/data-view#" xmlns:css3t="http://www.w3.org/TR/css3-text/" xmlns:officeooo="http://openoffice.org/2009/office" office:version="1.3" office:mimetype="application/vnd.oasis.opendocument.text">
+ <office:meta><meta:creation-date>2021-04-28T19:31:14.636000000</meta:creation-date><dc:date>2021-06-01T21:55:27.178000000</dc:date><meta:editing-duration>PT23H25M5S</meta:editing-duration><meta:editing-cycles>14</meta:editing-cycles><meta:generator>LibreOffice/7.1.2.2$Windows_X86_64 LibreOffice_project/8a45595d069ef5570103caea1b71cc9d82b2aae4</meta:generator><meta:document-statistic meta:table-count="0" meta:image-count="0" meta:object-count="16" meta:page-count="7" meta:paragraph-count="86" meta:word-count="603" meta:character-count="3170" meta:non-whitespace-character-count="2629"/></office:meta>
+ <office:settings>
+  <config:config-item-set config:name="ooo:view-settings">
+   <config:config-item config:name="ViewAreaTop" config:type="long">180652</config:config-item>
+   <config:config-item config:name="ViewAreaLeft" config:type="long">0</config:config-item>
+   <config:config-item config:name="ViewAreaWidth" config:type="long">34100</config:config-item>
+   <config:config-item config:name="ViewAreaHeight" config:type="long">16434</config:config-item>
+   <config:config-item config:name="ShowRedlineChanges" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="InBrowseMode" config:type="boolean">false</config:config-item>
+   <config:config-item-map-indexed config:name="Views">
+    <config:config-item-map-entry>
+     <config:config-item config:name="ViewId" config:type="string">view2</config:config-item>
+     <config:config-item config:name="ViewLeft" config:type="long">13686</config:config-item>
+     <config:config-item config:name="ViewTop" config:type="long">186238</config:config-item>
+     <config:config-item config:name="VisibleLeft" config:type="long">0</config:config-item>
+     <config:config-item config:name="VisibleTop" config:type="long">180652</config:config-item>
+     <config:config-item config:name="VisibleRight" config:type="long">34098</config:config-item>
+     <config:config-item config:name="VisibleBottom" config:type="long">197085</config:config-item>
+     <config:config-item config:name="ZoomType" config:type="short">0</config:config-item>
+     <config:config-item config:name="ViewLayoutColumns" config:type="short">1</config:config-item>
+     <config:config-item config:name="ViewLayoutBookMode" config:type="boolean">false</config:config-item>
+     <config:config-item config:name="ZoomFactor" config:type="short">110</config:config-item>
+     <config:config-item config:name="IsSelectedFrame" config:type="boolean">false</config:config-item>
+     <config:config-item config:name="AnchoredTextOverflowLegacy" config:type="boolean">false</config:config-item>
+    </config:config-item-map-entry>
+   </config:config-item-map-indexed>
+  </config:config-item-set>
+  <config:config-item-set config:name="ooo:configuration-settings">
+   <config:config-item config:name="ProtectForm" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="PrinterName" config:type="string"/>
+   <config:config-item config:name="EmbeddedDatabaseName" config:type="string"/>
+   <config:config-item config:name="CurrentDatabaseDataSource" config:type="string"/>
+   <config:config-item config:name="LinkUpdateMode" config:type="short">1</config:config-item>
+   <config:config-item config:name="AddParaTableSpacingAtStart" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="FloattableNomargins" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="UnbreakableNumberings" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="FieldAutoUpdate" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="AddVerticalFrameOffsets" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="BackgroundParaOverDrawings" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="AddParaTableSpacing" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="ChartAutoUpdate" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="CurrentDatabaseCommand" config:type="string"/>
+   <config:config-item config:name="PrinterSetup" config:type="base64Binary"/>
+   <config:config-item config:name="AlignTabStopPosition" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="PrinterPaperFromSetup" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="IsKernAsianPunctuation" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="CharacterCompressionType" config:type="short">0</config:config-item>
+   <config:config-item config:name="ApplyUserData" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="DoNotJustifyLinesWithManualBreak" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="SaveThumbnail" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="SaveGlobalDocumentLinks" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="SmallCapsPercentage66" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="CurrentDatabaseCommandType" config:type="int">0</config:config-item>
+   <config:config-item config:name="SaveVersionOnClose" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="UpdateFromTemplate" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="DoNotCaptureDrawObjsOnPage" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="UseFormerObjectPositioning" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="PrintSingleJobs" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="EmbedSystemFonts" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="PrinterIndependentLayout" config:type="string">high-resolution</config:config-item>
+   <config:config-item config:name="IsLabelDocument" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="AddFrameOffsets" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="AddExternalLeading" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="MsWordCompMinLineHeightByFly" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="UseOldNumbering" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="OutlineLevelYieldsNumbering" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="DoNotResetParaAttrsForNumFont" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="IgnoreFirstLineIndentInNumbering" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="AllowPrintJobCancel" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="UseFormerLineSpacing" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="AddParaSpacingToTableCells" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="AddParaLineSpacingToTableCells" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="UseFormerTextWrapping" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="RedlineProtectionKey" config:type="base64Binary"/>
+   <config:config-item config:name="ConsiderTextWrapOnObjPos" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="TableRowKeep" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="TabsRelativeToIndent" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="IgnoreTabsAndBlanksForLineCalculation" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="RsidRoot" config:type="int">643231</config:config-item>
+   <config:config-item config:name="LoadReadonly" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="ClipAsCharacterAnchoredWriterFlyFrames" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="UnxForceZeroExtLeading" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="UseOldPrinterMetrics" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="TabAtLeftIndentForParagraphsInList" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="Rsid" config:type="int">2598956</config:config-item>
+   <config:config-item config:name="MsWordCompTrailingBlanks" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="MathBaselineAlignment" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="InvertBorderSpacing" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="CollapseEmptyCellPara" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="TabOverflow" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="StylesNoDefault" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="ClippedPictures" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="EmbedFonts" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="EmbedOnlyUsedFonts" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="EmbedLatinScriptFonts" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="EmbedAsianScriptFonts" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="EmptyDbFieldHidesPara" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="EmbedComplexScriptFonts" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="TabOverMargin" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="TreatSingleColumnBreakAsPageBreak" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="SurroundTextWrapSmall" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="ApplyParagraphMarkFormatToNumbering" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="PropLineSpacingShrinksFirstLine" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="SubtractFlysAnchoredAtFlys" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="DisableOffPagePositioning" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="ContinuousEndnotes" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="ProtectBookmarks" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="ProtectFields" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="HeaderSpacingBelowLastPara" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="FrameAutowidthWithMorePara" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="PrintAnnotationMode" config:type="short">0</config:config-item>
+   <config:config-item config:name="PrintGraphics" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="PrintBlackFonts" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="PrintLeftPages" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="PrintControls" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="PrintPageBackground" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="PrintTextPlaceholder" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="PrintDrawings" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="PrintHiddenText" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="PrintProspect" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="PrintTables" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="PrintProspectRTL" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="PrintReversed" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="PrintRightPages" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="PrintFaxName" config:type="string"/>
+   <config:config-item config:name="PrintPaperFromSetup" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="PrintEmptyPages" config:type="boolean">true</config:config-item>
+  </config:config-item-set>
+ </office:settings>
+ <office:scripts>
+  <office:script script:language="ooo:Basic">
+   <ooo:libraries xmlns:ooo="http://openoffice.org/2004/office" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <ooo:library-embedded ooo:name="Standard"/>
+   </ooo:libraries>
+  </office:script>
+ </office:scripts>
+ <office:font-face-decls>
+  <style:font-face style:name="OpenSymbol" svg:font-family="OpenSymbol" style:font-charset="x-symbol"/>
+  <style:font-face style:name="Lucida Sans1" svg:font-family="&apos;Lucida Sans&apos;" style:font-family-generic="swiss"/>
+  <style:font-face style:name="Liberation Serif" svg:font-family="&apos;Liberation Serif&apos;" style:font-family-generic="roman" style:font-pitch="variable"/>
+  <style:font-face style:name="Ink Free" svg:font-family="&apos;Ink Free&apos;" style:font-family-generic="script" style:font-pitch="variable"/>
+  <style:font-face style:name="Arial" svg:font-family="Arial" style:font-family-generic="swiss" style:font-pitch="variable"/>
+  <style:font-face style:name="Liberation Sans" svg:font-family="&apos;Liberation Sans&apos;" style:font-family-generic="swiss" style:font-pitch="variable"/>
+  <style:font-face style:name="Lucida Sans" svg:font-family="&apos;Lucida Sans&apos;" style:font-family-generic="system" style:font-pitch="variable"/>
+  <style:font-face style:name="Microsoft YaHei" svg:font-family="&apos;Microsoft YaHei&apos;" style:font-family-generic="system" style:font-pitch="variable"/>
+  <style:font-face style:name="NSimSun" svg:font-family="NSimSun" style:font-family-generic="system" style:font-pitch="variable"/>
+ </office:font-face-decls>
+ <office:styles>
+  <style:default-style style:family="graphic">
+   <style:graphic-properties svg:stroke-color="#3465a4" draw:fill-color="#729fcf" fo:wrap-option="no-wrap" draw:shadow-offset-x="0.1181in" draw:shadow-offset-y="0.1181in" draw:start-line-spacing-horizontal="0.1114in" draw:start-line-spacing-vertical="0.1114in" draw:end-line-spacing-horizontal="0.1114in" draw:end-line-spacing-vertical="0.1114in" style:flow-with-text="false"/>
+   <style:paragraph-properties style:text-autospace="ideograph-alpha" style:line-break="strict" style:writing-mode="lr-tb" style:font-independent-line-spacing="false">
+    <style:tab-stops/>
+   </style:paragraph-properties>
+   <style:text-properties style:use-window-font-color="true" loext:opacity="0%" style:font-name="Liberation Serif" fo:font-size="12pt" fo:language="en" fo:country="US" style:letter-kerning="true" style:font-name-asian="NSimSun" style:font-size-asian="10.5pt" style:language-asian="zh" style:country-asian="CN" style:font-name-complex="Lucida Sans" style:font-size-complex="12pt" style:language-complex="hi" style:country-complex="IN"/>
+  </style:default-style>
+  <style:default-style style:family="paragraph">
+   <style:paragraph-properties fo:orphans="2" fo:widows="2" fo:hyphenation-ladder-count="no-limit" style:text-autospace="ideograph-alpha" style:punctuation-wrap="hanging" style:line-break="strict" style:tab-stop-distance="0.4925in" style:writing-mode="page"/>
+   <style:text-properties style:use-window-font-color="true" loext:opacity="0%" style:font-name="Liberation Serif" fo:font-size="12pt" fo:language="en" fo:country="US" style:letter-kerning="true" style:font-name-asian="NSimSun" style:font-size-asian="10.5pt" style:language-asian="zh" style:country-asian="CN" style:font-name-complex="Lucida Sans" style:font-size-complex="12pt" style:language-complex="hi" style:country-complex="IN" fo:hyphenate="false" fo:hyphenation-remain-char-count="2" fo:hyphenation-push-char-count="2" loext:hyphenation-no-caps="false"/>
+  </style:default-style>
+  <style:default-style style:family="table">
+   <style:table-properties table:border-model="collapsing"/>
+  </style:default-style>
+  <style:default-style style:family="table-row">
+   <style:table-row-properties fo:keep-together="auto"/>
+  </style:default-style>
+  <style:style style:name="Standard" style:family="paragraph" style:class="text"/>
+  <style:style style:name="Heading" style:family="paragraph" style:parent-style-name="Standard" style:next-style-name="Text_20_body" style:class="text">
+   <style:paragraph-properties fo:margin-top="0.1665in" fo:margin-bottom="0.0835in" style:contextual-spacing="false" fo:keep-with-next="always"/>
+   <style:text-properties style:font-name="Liberation Sans" fo:font-family="&apos;Liberation Sans&apos;" style:font-family-generic="swiss" style:font-pitch="variable" fo:font-size="14pt" style:font-name-asian="Microsoft YaHei" style:font-family-asian="&apos;Microsoft YaHei&apos;" style:font-family-generic-asian="system" style:font-pitch-asian="variable" style:font-size-asian="14pt" style:font-name-complex="Lucida Sans" style:font-family-complex="&apos;Lucida Sans&apos;" style:font-family-generic-complex="system" style:font-pitch-complex="variable" style:font-size-complex="14pt"/>
+  </style:style>
+  <style:style style:name="Text_20_body" style:display-name="Text body" style:family="paragraph" style:parent-style-name="Standard" style:class="text">
+   <style:paragraph-properties fo:margin-top="0in" fo:margin-bottom="0.0972in" style:contextual-spacing="false" fo:line-height="115%"/>
+  </style:style>
+  <style:style style:name="List" style:family="paragraph" style:parent-style-name="Text_20_body" style:class="list">
+   <style:text-properties style:font-size-asian="12pt" style:font-name-complex="Lucida Sans1" style:font-family-complex="&apos;Lucida Sans&apos;" style:font-family-generic-complex="swiss"/>
+  </style:style>
+  <style:style style:name="Caption" style:family="paragraph" style:parent-style-name="Standard" style:class="extra">
+   <style:paragraph-properties fo:margin-top="0.0835in" fo:margin-bottom="0.0835in" style:contextual-spacing="false" text:number-lines="false" text:line-number="0"/>
+   <style:text-properties fo:font-size="12pt" fo:font-style="italic" style:font-size-asian="12pt" style:font-style-asian="italic" style:font-name-complex="Lucida Sans1" style:font-family-complex="&apos;Lucida Sans&apos;" style:font-family-generic-complex="swiss" style:font-size-complex="12pt" style:font-style-complex="italic"/>
+  </style:style>
+  <style:style style:name="Index" style:family="paragraph" style:parent-style-name="Standard" style:class="index">
+   <style:paragraph-properties text:number-lines="false" text:line-number="0"/>
+   <style:text-properties style:font-size-asian="12pt" style:font-name-complex="Lucida Sans1" style:font-family-complex="&apos;Lucida Sans&apos;" style:font-family-generic-complex="swiss"/>
+  </style:style>
+  <style:style style:name="Title" style:family="paragraph" style:parent-style-name="Heading" style:next-style-name="Text_20_body" style:class="chapter">
+   <style:paragraph-properties fo:text-align="center" style:justify-single-word="false"/>
+   <style:text-properties fo:font-size="28pt" fo:font-weight="bold" style:font-size-asian="28pt" style:font-weight-asian="bold" style:font-size-complex="28pt" style:font-weight-complex="bold"/>
+  </style:style>
+  <style:style style:name="Heading_20_1" style:display-name="Heading 1" style:family="paragraph" style:parent-style-name="Heading" style:next-style-name="Text_20_body" style:default-outline-level="1" style:class="text">
+   <style:paragraph-properties fo:margin-top="0.1665in" fo:margin-bottom="0.0835in" style:contextual-spacing="false"/>
+   <style:text-properties fo:font-size="130%" fo:font-weight="bold" style:font-size-asian="130%" style:font-weight-asian="bold" style:font-size-complex="130%" style:font-weight-complex="bold"/>
+  </style:style>
+  <style:style style:name="Index_20_Heading" style:display-name="Index Heading" style:family="paragraph" style:parent-style-name="Heading" style:class="index">
+   <style:paragraph-properties fo:margin-left="0in" fo:margin-right="0in" fo:text-indent="0in" style:auto-text-indent="false" text:number-lines="false" text:line-number="0"/>
+   <style:text-properties fo:font-size="16pt" fo:font-weight="bold" style:font-size-asian="16pt" style:font-weight-asian="bold" style:font-size-complex="16pt" style:font-weight-complex="bold"/>
+  </style:style>
+  <style:style style:name="Contents_20_Heading" style:display-name="Contents Heading" style:family="paragraph" style:parent-style-name="Index_20_Heading" style:class="index">
+   <style:paragraph-properties fo:margin-left="0in" fo:margin-right="0in" fo:text-indent="0in" style:auto-text-indent="false" text:number-lines="false" text:line-number="0"/>
+   <style:text-properties fo:font-size="16pt" fo:font-weight="bold" style:font-size-asian="16pt" style:font-weight-asian="bold" style:font-size-complex="16pt" style:font-weight-complex="bold"/>
+  </style:style>
+  <style:style style:name="Contents_20_1" style:display-name="Contents 1" style:family="paragraph" style:parent-style-name="Index" style:class="index">
+   <style:paragraph-properties fo:margin-left="0in" fo:margin-right="0in" fo:text-indent="0in" style:auto-text-indent="false">
+    <style:tab-stops>
+     <style:tab-stop style:position="6.9252in" style:type="right" style:leader-style="dotted" style:leader-text="."/>
+    </style:tab-stops>
+   </style:paragraph-properties>
+  </style:style>
+  <style:style style:name="Heading_20_3" style:display-name="Heading 3" style:family="paragraph" style:parent-style-name="Heading" style:next-style-name="Text_20_body" style:default-outline-level="3" style:class="text">
+   <style:paragraph-properties fo:margin-top="0.0972in" fo:margin-bottom="0.0835in" style:contextual-spacing="false"/>
+   <style:text-properties fo:font-size="101%" fo:font-weight="bold" style:font-size-asian="101%" style:font-weight-asian="bold" style:font-size-complex="101%" style:font-weight-complex="bold"/>
+  </style:style>
+  <style:style style:name="Subtitle" style:family="paragraph" style:parent-style-name="Heading" style:next-style-name="Text_20_body" style:class="chapter">
+   <style:paragraph-properties fo:margin-top="0.0417in" fo:margin-bottom="0.0835in" style:contextual-spacing="false" fo:text-align="center" style:justify-single-word="false"/>
+   <style:text-properties fo:font-size="18pt" style:font-size-asian="18pt" style:font-size-complex="18pt"/>
+  </style:style>
+  <style:style style:name="Heading_20_2" style:display-name="Heading 2" style:family="paragraph" style:parent-style-name="Heading" style:next-style-name="Text_20_body" style:default-outline-level="2" style:class="text">
+   <style:paragraph-properties fo:margin-top="0.139in" fo:margin-bottom="0.0835in" style:contextual-spacing="false"/>
+   <style:text-properties fo:font-size="115%" fo:font-weight="bold" style:font-size-asian="115%" style:font-weight-asian="bold" style:font-size-complex="115%" style:font-weight-complex="bold"/>
+  </style:style>
+  <style:style style:name="Contents_20_2" style:display-name="Contents 2" style:family="paragraph" style:parent-style-name="Index" style:class="index">
+   <style:paragraph-properties fo:margin-left="0.1965in" fo:margin-right="0in" fo:text-indent="0in" style:auto-text-indent="false">
+    <style:tab-stops>
+     <style:tab-stop style:position="6.7283in" style:type="right" style:leader-style="dotted" style:leader-text="."/>
+    </style:tab-stops>
+   </style:paragraph-properties>
+  </style:style>
+  <style:style style:name="Bullet_20_Symbols" style:display-name="Bullet Symbols" style:family="text">
+   <style:text-properties style:font-name="OpenSymbol" fo:font-family="OpenSymbol" style:font-charset="x-symbol" style:font-name-asian="OpenSymbol" style:font-family-asian="OpenSymbol" style:font-charset-asian="x-symbol" style:font-name-complex="OpenSymbol" style:font-family-complex="OpenSymbol" style:font-charset-complex="x-symbol"/>
+  </style:style>
+  <style:style style:name="Numbering_20_Symbols" style:display-name="Numbering Symbols" style:family="text"/>
+  <style:style style:name="Internet_20_link" style:display-name="Internet link" style:family="text">
+   <style:text-properties fo:color="#000080" loext:opacity="100%" fo:language="zxx" fo:country="none" style:text-underline-style="solid" style:text-underline-width="auto" style:text-underline-color="font-color" style:language-asian="zxx" style:country-asian="none" style:language-complex="zxx" style:country-complex="none"/>
+  </style:style>
+  <style:style style:name="Index_20_Link" style:display-name="Index Link" style:family="text"/>
+  <style:style style:name="OLE" style:family="graphic">
+   <style:graphic-properties text:anchor-type="paragraph" svg:x="0in" svg:y="0in" style:wrap="dynamic" style:number-wrapped-paragraphs="no-limit" style:wrap-contour="false" style:vertical-pos="top" style:vertical-rel="paragraph" style:horizontal-pos="center" style:horizontal-rel="paragraph"/>
+  </style:style>
+  <style:style style:name="Formula" style:family="graphic">
+   <style:graphic-properties text:anchor-type="as-char" svg:y="0in" fo:margin-left="0.0791in" fo:margin-right="0.0791in" style:vertical-pos="middle" style:vertical-rel="text"/>
+  </style:style>
+  <text:outline-style style:name="Outline">
+   <text:outline-level-style text:level="1" style:num-format="">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab"/>
+    </style:list-level-properties>
+   </text:outline-level-style>
+   <text:outline-level-style text:level="2" style:num-format="">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab"/>
+    </style:list-level-properties>
+   </text:outline-level-style>
+   <text:outline-level-style text:level="3" style:num-format="">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab"/>
+    </style:list-level-properties>
+   </text:outline-level-style>
+   <text:outline-level-style text:level="4" style:num-format="">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab"/>
+    </style:list-level-properties>
+   </text:outline-level-style>
+   <text:outline-level-style text:level="5" style:num-format="">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab"/>
+    </style:list-level-properties>
+   </text:outline-level-style>
+   <text:outline-level-style text:level="6" style:num-format="">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab"/>
+    </style:list-level-properties>
+   </text:outline-level-style>
+   <text:outline-level-style text:level="7" style:num-format="">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab"/>
+    </style:list-level-properties>
+   </text:outline-level-style>
+   <text:outline-level-style text:level="8" style:num-format="">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab"/>
+    </style:list-level-properties>
+   </text:outline-level-style>
+   <text:outline-level-style text:level="9" style:num-format="">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab"/>
+    </style:list-level-properties>
+   </text:outline-level-style>
+   <text:outline-level-style text:level="10" style:num-format="">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab"/>
+    </style:list-level-properties>
+   </text:outline-level-style>
+  </text:outline-style>
+  <text:notes-configuration text:note-class="footnote" style:num-format="1" text:start-value="0" text:footnotes-position="page" text:start-numbering-at="document"/>
+  <text:notes-configuration text:note-class="endnote" style:num-format="i" text:start-value="0"/>
+  <text:linenumbering-configuration text:number-lines="false" text:offset="0.1965in" style:num-format="1" text:number-position="left" text:increment="5"/>
+ </office:styles>
+ <office:automatic-styles>
+  <style:style style:name="P1" style:family="paragraph" style:parent-style-name="Contents_20_1">
+   <style:paragraph-properties>
+    <style:tab-stops>
+     <style:tab-stop style:position="6.9252in" style:type="right" style:leader-style="dotted" style:leader-text="."/>
+    </style:tab-stops>
+   </style:paragraph-properties>
+  </style:style>
+  <style:style style:name="P2" style:family="paragraph" style:parent-style-name="Heading_20_1">
+   <style:text-properties style:font-name="Arial"/>
+  </style:style>
+  <style:style style:name="P3" style:family="paragraph" style:parent-style-name="Heading_20_1">
+   <style:text-properties style:font-name="Arial" officeooo:rsid="000af237" officeooo:paragraph-rsid="000af237"/>
+  </style:style>
+  <style:style style:name="P4" style:family="paragraph" style:parent-style-name="Heading_20_1">
+   <style:text-properties officeooo:rsid="000fd865" officeooo:paragraph-rsid="000fd865"/>
+  </style:style>
+  <style:style style:name="P5" style:family="paragraph" style:parent-style-name="Heading_20_1">
+   <style:text-properties officeooo:rsid="001119df" officeooo:paragraph-rsid="001119df"/>
+  </style:style>
+  <style:style style:name="P6" style:family="paragraph" style:parent-style-name="Heading_20_1">
+   <style:text-properties officeooo:rsid="00119be9" officeooo:paragraph-rsid="00119be9"/>
+  </style:style>
+  <style:style style:name="P7" style:family="paragraph" style:parent-style-name="Heading_20_1">
+   <style:text-properties style:font-name="Ink Free"/>
+  </style:style>
+  <style:style style:name="P8" style:family="paragraph" style:parent-style-name="Heading_20_1">
+   <style:text-properties style:font-name="Ink Free" officeooo:rsid="000af237" officeooo:paragraph-rsid="000af237"/>
+  </style:style>
+  <style:style style:name="P9" style:family="paragraph" style:parent-style-name="Heading_20_1">
+   <style:text-properties style:font-name="Ink Free" officeooo:rsid="0015ccbe" officeooo:paragraph-rsid="0015ccbe"/>
+  </style:style>
+  <style:style style:name="P10" style:family="paragraph" style:parent-style-name="Heading_20_1">
+   <style:text-properties style:font-name="Ink Free" officeooo:rsid="0015ccbe" officeooo:paragraph-rsid="00221b6f"/>
+  </style:style>
+  <style:style style:name="P11" style:family="paragraph" style:parent-style-name="Heading_20_1">
+   <style:text-properties style:font-name="Ink Free" officeooo:rsid="000fd865" officeooo:paragraph-rsid="000fd865"/>
+  </style:style>
+  <style:style style:name="P12" style:family="paragraph" style:parent-style-name="Heading_20_1">
+   <style:text-properties style:font-name="Ink Free" officeooo:rsid="001119df" officeooo:paragraph-rsid="001119df"/>
+  </style:style>
+  <style:style style:name="P13" style:family="paragraph" style:parent-style-name="Heading_20_1">
+   <style:text-properties style:font-name="Ink Free" officeooo:rsid="00119be9" officeooo:paragraph-rsid="00119be9"/>
+  </style:style>
+  <style:style style:name="P14" style:family="paragraph" style:parent-style-name="Heading_20_1">
+   <style:text-properties style:font-name="Ink Free" officeooo:paragraph-rsid="0017f70b"/>
+  </style:style>
+  <style:style style:name="P15" style:family="paragraph" style:parent-style-name="Heading_20_1">
+   <style:text-properties officeooo:paragraph-rsid="00221b6f"/>
+  </style:style>
+  <style:style style:name="P16" style:family="paragraph" style:parent-style-name="Heading_20_1">
+   <style:text-properties officeooo:rsid="0022eae2" officeooo:paragraph-rsid="0022eae2"/>
+  </style:style>
+  <style:style style:name="P17" style:family="paragraph" style:parent-style-name="Heading_20_1">
+   <style:text-properties officeooo:rsid="0025280c" officeooo:paragraph-rsid="0025280c"/>
+  </style:style>
+  <style:style style:name="P18" style:family="paragraph" style:parent-style-name="Heading_20_1">
+   <style:text-properties officeooo:rsid="0026b47c" officeooo:paragraph-rsid="0026b47c"/>
+  </style:style>
+  <style:style style:name="P19" style:family="paragraph" style:parent-style-name="Text_20_body">
+   <style:text-properties style:font-name="Arial" officeooo:rsid="0009d09f" officeooo:paragraph-rsid="0009d09f"/>
+  </style:style>
+  <style:style style:name="P20" style:family="paragraph" style:parent-style-name="Text_20_body">
+   <style:text-properties style:font-name="Arial" officeooo:paragraph-rsid="0009d09f"/>
+  </style:style>
+  <style:style style:name="P21" style:family="paragraph" style:parent-style-name="Text_20_body">
+   <style:text-properties style:font-name="Arial" officeooo:rsid="000af237" officeooo:paragraph-rsid="000af237"/>
+  </style:style>
+  <style:style style:name="P22" style:family="paragraph" style:parent-style-name="Text_20_body">
+   <style:text-properties style:font-name="Arial" officeooo:paragraph-rsid="000af237"/>
+  </style:style>
+  <style:style style:name="P23" style:family="paragraph" style:parent-style-name="Text_20_body">
+   <style:text-properties style:font-name="Arial" officeooo:rsid="000f5831" officeooo:paragraph-rsid="000f5831"/>
+  </style:style>
+  <style:style style:name="P24" style:family="paragraph" style:parent-style-name="Text_20_body">
+   <style:text-properties officeooo:rsid="000fd865" officeooo:paragraph-rsid="000fd865"/>
+  </style:style>
+  <style:style style:name="P25" style:family="paragraph" style:parent-style-name="Text_20_body">
+   <style:text-properties officeooo:paragraph-rsid="000fd865"/>
+  </style:style>
+  <style:style style:name="P26" style:family="paragraph" style:parent-style-name="Text_20_body">
+   <style:text-properties officeooo:rsid="001119df" officeooo:paragraph-rsid="001119df"/>
+  </style:style>
+  <style:style style:name="P27" style:family="paragraph" style:parent-style-name="Text_20_body">
+   <style:text-properties style:font-name="Ink Free" officeooo:rsid="000fd865" officeooo:paragraph-rsid="000fd865"/>
+  </style:style>
+  <style:style style:name="P28" style:family="paragraph" style:parent-style-name="Text_20_body">
+   <style:text-properties style:font-name="Ink Free" officeooo:rsid="0009d09f" officeooo:paragraph-rsid="0009d09f"/>
+  </style:style>
+  <style:style style:name="P29" style:family="paragraph" style:parent-style-name="Text_20_body">
+   <style:text-properties style:font-name="Ink Free" officeooo:rsid="000af237" officeooo:paragraph-rsid="000af237"/>
+  </style:style>
+  <style:style style:name="P30" style:family="paragraph" style:parent-style-name="Text_20_body">
+   <style:text-properties style:font-name="Ink Free" officeooo:rsid="0015ccbe" officeooo:paragraph-rsid="0015ccbe"/>
+  </style:style>
+  <style:style style:name="P31" style:family="paragraph" style:parent-style-name="Text_20_body">
+   <style:text-properties style:font-name="Ink Free" officeooo:rsid="0015ccbe" officeooo:paragraph-rsid="0017f70b"/>
+  </style:style>
+  <style:style style:name="P32" style:family="paragraph" style:parent-style-name="Text_20_body">
+   <style:text-properties style:font-name="Ink Free" officeooo:rsid="000f5831" officeooo:paragraph-rsid="000f5831"/>
+  </style:style>
+  <style:style style:name="P33" style:family="paragraph" style:parent-style-name="Text_20_body">
+   <style:text-properties style:font-name="Ink Free" officeooo:rsid="001119df" officeooo:paragraph-rsid="001119df"/>
+  </style:style>
+  <style:style style:name="P34" style:family="paragraph" style:parent-style-name="Text_20_body">
+   <style:text-properties style:font-name="Ink Free" officeooo:rsid="00119be9" officeooo:paragraph-rsid="00119be9"/>
+  </style:style>
+  <style:style style:name="P35" style:family="paragraph" style:parent-style-name="Text_20_body">
+   <style:text-properties style:font-name="Ink Free" officeooo:rsid="001c9e2f" officeooo:paragraph-rsid="001c9e2f"/>
+  </style:style>
+  <style:style style:name="P36" style:family="paragraph" style:parent-style-name="Text_20_body">
+   <style:text-properties style:font-name="Ink Free" officeooo:rsid="001dee65" officeooo:paragraph-rsid="001dee65"/>
+  </style:style>
+  <style:style style:name="P37" style:family="paragraph" style:parent-style-name="Text_20_body">
+   <style:text-properties style:font-name="Ink Free" officeooo:rsid="0017f70b" officeooo:paragraph-rsid="0017f70b"/>
+  </style:style>
+  <style:style style:name="P38" style:family="paragraph" style:parent-style-name="Text_20_body">
+   <style:text-properties style:font-name="Ink Free" officeooo:rsid="0018d409" officeooo:paragraph-rsid="0018d409"/>
+  </style:style>
+  <style:style style:name="P39" style:family="paragraph" style:parent-style-name="Text_20_body">
+   <style:text-properties officeooo:paragraph-rsid="001119df"/>
+  </style:style>
+  <style:style style:name="P40" style:family="paragraph" style:parent-style-name="Text_20_body">
+   <style:text-properties officeooo:rsid="00119be9" officeooo:paragraph-rsid="00119be9"/>
+  </style:style>
+  <style:style style:name="P41" style:family="paragraph" style:parent-style-name="Text_20_body">
+   <style:text-properties officeooo:paragraph-rsid="00119be9"/>
+  </style:style>
+  <style:style style:name="P42" style:family="paragraph" style:parent-style-name="Text_20_body">
+   <style:text-properties officeooo:rsid="0017f70b" officeooo:paragraph-rsid="0017f70b"/>
+  </style:style>
+  <style:style style:name="P43" style:family="paragraph" style:parent-style-name="Text_20_body">
+   <style:text-properties officeooo:rsid="0018d409" officeooo:paragraph-rsid="0018d409"/>
+  </style:style>
+  <style:style style:name="P44" style:family="paragraph" style:parent-style-name="Text_20_body">
+   <style:text-properties officeooo:rsid="001b23b8" officeooo:paragraph-rsid="001b23b8"/>
+  </style:style>
+  <style:style style:name="P45" style:family="paragraph" style:parent-style-name="Text_20_body">
+   <style:text-properties officeooo:rsid="0022eae2" officeooo:paragraph-rsid="0022eae2"/>
+  </style:style>
+  <style:style style:name="P46" style:family="paragraph" style:parent-style-name="Text_20_body">
+   <style:text-properties officeooo:paragraph-rsid="0022eae2"/>
+  </style:style>
+  <style:style style:name="P47" style:family="paragraph" style:parent-style-name="Text_20_body">
+   <style:text-properties officeooo:rsid="0025280c" officeooo:paragraph-rsid="0025280c"/>
+  </style:style>
+  <style:style style:name="P48" style:family="paragraph" style:parent-style-name="Text_20_body">
+   <style:text-properties officeooo:rsid="0026b47c" officeooo:paragraph-rsid="0026b47c"/>
+  </style:style>
+  <style:style style:name="P49" style:family="paragraph" style:parent-style-name="Text_20_body">
+   <style:text-properties style:text-line-through-style="none" style:text-line-through-type="none" officeooo:rsid="0026b47c" officeooo:paragraph-rsid="0026b47c"/>
+  </style:style>
+  <style:style style:name="P50" style:family="paragraph" style:parent-style-name="Title">
+   <style:text-properties style:font-name="Arial" officeooo:rsid="0009d09f" officeooo:paragraph-rsid="0009d09f"/>
+  </style:style>
+  <style:style style:name="P51" style:family="paragraph" style:parent-style-name="Title">
+   <style:text-properties style:font-name="Arial" officeooo:paragraph-rsid="000f5831"/>
+  </style:style>
+  <style:style style:name="P52" style:family="paragraph" style:parent-style-name="Title">
+   <style:paragraph-properties fo:break-before="page"/>
+   <style:text-properties style:font-name="Arial"/>
+  </style:style>
+  <style:style style:name="P53" style:family="paragraph" style:parent-style-name="Title">
+   <style:paragraph-properties fo:break-before="page"/>
+   <style:text-properties style:font-name="Arial" officeooo:rsid="0009d09f" officeooo:paragraph-rsid="0009d09f"/>
+  </style:style>
+  <style:style style:name="P54" style:family="paragraph" style:parent-style-name="Title">
+   <style:paragraph-properties fo:break-before="page"/>
+   <style:text-properties style:font-name="Arial" officeooo:rsid="000f5831" officeooo:paragraph-rsid="000f5831"/>
+  </style:style>
+  <style:style style:name="P55" style:family="paragraph" style:parent-style-name="Title">
+   <style:paragraph-properties fo:break-before="page"/>
+   <style:text-properties style:font-name="Ink Free" officeooo:rsid="0009d09f" officeooo:paragraph-rsid="0009d09f"/>
+  </style:style>
+  <style:style style:name="P56" style:family="paragraph" style:parent-style-name="Heading_20_1">
+   <style:paragraph-properties fo:break-before="page"/>
+  </style:style>
+  <style:style style:name="P57" style:family="paragraph" style:parent-style-name="Heading_20_1">
+   <style:paragraph-properties fo:break-before="page"/>
+   <style:text-properties officeooo:rsid="000f5831" officeooo:paragraph-rsid="000f5831"/>
+  </style:style>
+  <style:style style:name="P58" style:family="paragraph" style:parent-style-name="Heading_20_1">
+   <style:paragraph-properties fo:break-before="page"/>
+   <style:text-properties style:font-name="Ink Free" officeooo:rsid="000f5831" officeooo:paragraph-rsid="000f5831"/>
+  </style:style>
+  <style:style style:name="P59" style:family="paragraph" style:parent-style-name="Heading">
+   <style:text-properties officeooo:rsid="00119be9" officeooo:paragraph-rsid="00119be9"/>
+  </style:style>
+  <style:style style:name="P60" style:family="paragraph" style:parent-style-name="Heading">
+   <style:text-properties style:font-name="Ink Free" officeooo:rsid="00119be9" officeooo:paragraph-rsid="00119be9"/>
+  </style:style>
+  <style:style style:name="P61" style:family="paragraph" style:parent-style-name="Heading">
+   <style:text-properties officeooo:rsid="0022eae2" officeooo:paragraph-rsid="0022eae2"/>
+  </style:style>
+  <style:style style:name="P62" style:family="paragraph" style:parent-style-name="Heading_20_3">
+   <style:text-properties style:font-name="Ink Free" officeooo:rsid="0015ccbe" officeooo:paragraph-rsid="0015ccbe"/>
+  </style:style>
+  <style:style style:name="P63" style:family="paragraph" style:parent-style-name="Contents_20_Heading">
+   <style:text-properties officeooo:rsid="00221b6f" officeooo:paragraph-rsid="00221b6f"/>
+  </style:style>
+  <style:style style:name="P64" style:family="paragraph" style:parent-style-name="Standard">
+   <style:paragraph-properties fo:text-align="center" style:justify-single-word="false"/>
+  </style:style>
+  <style:style style:name="P65" style:family="paragraph" style:parent-style-name="Standard">
+   <loext:graphic-properties draw:fill="solid" draw:fill-color="#729fcf"/>
+   <style:paragraph-properties fo:text-align="center" style:justify-single-word="false" fo:background-color="#729fcf"/>
+  </style:style>
+  <style:style style:name="P66" style:family="paragraph" style:parent-style-name="Contents_20_2">
+   <style:paragraph-properties>
+    <style:tab-stops>
+     <style:tab-stop style:position="6.7283in" style:type="right" style:leader-style="dotted" style:leader-text="."/>
+    </style:tab-stops>
+   </style:paragraph-properties>
+  </style:style>
+  <style:style style:name="P67" style:family="paragraph" style:parent-style-name="Heading_20_1">
+   <style:text-properties officeooo:rsid="0022eae2" officeooo:paragraph-rsid="0022eae2"/>
+  </style:style>
+  <style:style style:name="P68" style:family="paragraph" style:parent-style-name="Heading_20_1">
+   <style:text-properties style:font-name="Ink Free" officeooo:rsid="000fd865" officeooo:paragraph-rsid="000fd865"/>
+  </style:style>
+  <style:style style:name="P69" style:family="paragraph" style:parent-style-name="Heading_20_1">
+   <style:text-properties style:font-name="Ink Free" officeooo:rsid="001119df" officeooo:paragraph-rsid="001119df"/>
+  </style:style>
+  <style:style style:name="P70" style:family="paragraph" style:parent-style-name="Heading_20_1">
+   <style:text-properties style:font-name="Ink Free" officeooo:rsid="00119be9" officeooo:paragraph-rsid="00119be9"/>
+  </style:style>
+  <style:style style:name="P71" style:family="paragraph" style:parent-style-name="Heading_20_1">
+   <style:text-properties officeooo:rsid="0025280c" officeooo:paragraph-rsid="0025280c"/>
+  </style:style>
+  <style:style style:name="P72" style:family="paragraph" style:parent-style-name="Heading_20_1">
+   <style:text-properties officeooo:rsid="0026b47c" officeooo:paragraph-rsid="0026b47c"/>
+  </style:style>
+  <style:style style:name="P73" style:family="paragraph" style:parent-style-name="Heading_20_1">
+   <style:paragraph-properties fo:break-before="page"/>
+  </style:style>
+  <style:style style:name="P74" style:family="paragraph" style:parent-style-name="Text_20_body" style:list-style-name="L1">
+   <style:text-properties style:font-name="Ink Free" officeooo:rsid="000af237" officeooo:paragraph-rsid="000af237"/>
+  </style:style>
+  <style:style style:name="P75" style:family="paragraph" style:parent-style-name="Text_20_body">
+   <style:text-properties style:text-line-through-style="none" style:text-line-through-type="none" officeooo:rsid="0026b47c" officeooo:paragraph-rsid="0026b47c"/>
+  </style:style>
+  <style:style style:name="P76" style:family="paragraph" style:parent-style-name="Text_20_body">
+   <style:text-properties style:text-line-through-style="none" style:text-line-through-type="none" officeooo:rsid="0026b47c" officeooo:paragraph-rsid="0027a82c"/>
+  </style:style>
+  <style:style style:name="P77" style:family="paragraph">
+   <style:paragraph-properties fo:text-align="center"/>
+  </style:style>
+  <style:style style:name="P78" style:family="paragraph">
+   <loext:graphic-properties draw:fill="solid" draw:fill-color="#729fcf"/>
+   <style:paragraph-properties fo:text-align="center"/>
+  </style:style>
+  <style:style style:name="T1" style:family="text">
+   <style:text-properties officeooo:rsid="0009d09f"/>
+  </style:style>
+  <style:style style:name="T2" style:family="text">
+   <style:text-properties officeooo:rsid="000af237"/>
+  </style:style>
+  <style:style style:name="T3" style:family="text">
+   <style:text-properties officeooo:rsid="000fd865"/>
+  </style:style>
+  <style:style style:name="T4" style:family="text">
+   <style:text-properties officeooo:rsid="001119df"/>
+  </style:style>
+  <style:style style:name="T5" style:family="text">
+   <style:text-properties officeooo:rsid="00119be9"/>
+  </style:style>
+  <style:style style:name="T6" style:family="text">
+   <style:text-properties officeooo:rsid="0013e4cb"/>
+  </style:style>
+  <style:style style:name="T7" style:family="text">
+   <style:text-properties officeooo:rsid="000f5831"/>
+  </style:style>
+  <style:style style:name="T8" style:family="text">
+   <style:text-properties style:font-name="Ink Free"/>
+  </style:style>
+  <style:style style:name="T9" style:family="text">
+   <style:text-properties style:font-name="Ink Free" officeooo:rsid="000f5831"/>
+  </style:style>
+  <style:style style:name="T10" style:family="text">
+   <style:text-properties style:font-name="Ink Free" officeooo:rsid="0015ccbe"/>
+  </style:style>
+  <style:style style:name="T11" style:family="text">
+   <style:text-properties style:font-name="Ink Free" officeooo:rsid="00249fb1"/>
+  </style:style>
+  <style:style style:name="T12" style:family="text">
+   <style:text-properties style:font-name="Ink Free" officeooo:rsid="00119be9"/>
+  </style:style>
+  <style:style style:name="T13" style:family="text">
+   <style:text-properties officeooo:rsid="00249fb1"/>
+  </style:style>
+  <style:style style:name="T14" style:family="text">
+   <style:text-properties style:text-line-through-style="solid" style:text-line-through-type="single"/>
+  </style:style>
+  <style:style style:name="T15" style:family="text">
+   <style:text-properties style:text-line-through-style="none" style:text-line-through-type="none"/>
+  </style:style>
+  <style:style style:name="T16" style:family="text">
+   <style:text-properties officeooo:rsid="0027a82c"/>
+  </style:style>
+  <style:style style:name="fr1" style:family="graphic" style:parent-style-name="Formula">
+   <style:graphic-properties style:vertical-pos="from-top" draw:ole-draw-aspect="1"/>
+  </style:style>
+  <style:style style:name="fr2" style:family="graphic" style:parent-style-name="Formula">
+   <style:graphic-properties style:vertical-pos="from-top" style:horizontal-pos="from-left" style:horizontal-rel="paragraph-content" draw:ole-draw-aspect="1"/>
+  </style:style>
+  <style:style style:name="fr3" style:family="graphic" style:parent-style-name="OLE">
+   <style:graphic-properties style:run-through="foreground" style:wrap="none" style:vertical-pos="from-top" style:vertical-rel="paragraph" style:horizontal-pos="from-left" style:horizontal-rel="paragraph" draw:ole-draw-aspect="1"/>
+  </style:style>
+  <style:style style:name="Sect1" style:family="section">
+   <style:section-properties style:editable="false">
+    <style:columns fo:column-count="1" fo:column-gap="0in"/>
+   </style:section-properties>
+  </style:style>
+  <text:list-style style:name="L1">
+   <text:list-level-style-bullet text:level="1" text:style-name="Bullet_20_Symbols" text:bullet-char="•">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="0.5in" fo:text-indent="-0.25in" fo:margin-left="0.5in"/>
+    </style:list-level-properties>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="2" text:style-name="Bullet_20_Symbols" text:bullet-char="◦">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="0.75in" fo:text-indent="-0.25in" fo:margin-left="0.75in"/>
+    </style:list-level-properties>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="3" text:style-name="Bullet_20_Symbols" text:bullet-char="▪">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="1in" fo:text-indent="-0.25in" fo:margin-left="1in"/>
+    </style:list-level-properties>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="4" text:style-name="Bullet_20_Symbols" text:bullet-char="•">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="1.25in" fo:text-indent="-0.25in" fo:margin-left="1.25in"/>
+    </style:list-level-properties>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="5" text:style-name="Bullet_20_Symbols" text:bullet-char="◦">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="1.5in" fo:text-indent="-0.25in" fo:margin-left="1.5in"/>
+    </style:list-level-properties>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="6" text:style-name="Bullet_20_Symbols" text:bullet-char="▪">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="1.75in" fo:text-indent="-0.25in" fo:margin-left="1.75in"/>
+    </style:list-level-properties>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="7" text:style-name="Bullet_20_Symbols" text:bullet-char="•">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="2in" fo:text-indent="-0.25in" fo:margin-left="2in"/>
+    </style:list-level-properties>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="8" text:style-name="Bullet_20_Symbols" text:bullet-char="◦">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="2.25in" fo:text-indent="-0.25in" fo:margin-left="2.25in"/>
+    </style:list-level-properties>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="9" text:style-name="Bullet_20_Symbols" text:bullet-char="▪">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="2.5in" fo:text-indent="-0.25in" fo:margin-left="2.5in"/>
+    </style:list-level-properties>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="10" text:style-name="Bullet_20_Symbols" text:bullet-char="•">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="2.75in" fo:text-indent="-0.25in" fo:margin-left="2.75in"/>
+    </style:list-level-properties>
+   </text:list-level-style-bullet>
+  </text:list-style>
+  <style:style style:name="gr1" style:family="graphic">
+   <style:graphic-properties draw:textarea-horizontal-align="center" draw:textarea-vertical-align="middle" style:run-through="foreground" style:wrap="run-through" style:number-wrapped-paragraphs="no-limit" style:vertical-pos="from-top" style:vertical-rel="paragraph" style:horizontal-pos="from-left" style:horizontal-rel="paragraph" draw:wrap-influence-on-position="once-concurrent" loext:allow-overlap="true" style:flow-with-text="false"/>
+  </style:style>
+  <style:style style:name="gr2" style:family="graphic">
+   <style:graphic-properties draw:fill="solid" draw:fill-color="#729fcf" draw:textarea-horizontal-align="justify" draw:textarea-vertical-align="middle" draw:auto-grow-height="false" fo:min-height="0.4307in" fo:min-width="0.4307in" style:run-through="foreground" style:wrap="run-through" style:number-wrapped-paragraphs="no-limit" style:vertical-pos="from-top" style:vertical-rel="paragraph" style:horizontal-pos="from-left" style:horizontal-rel="paragraph" draw:wrap-influence-on-position="once-concurrent" loext:allow-overlap="true" style:flow-with-text="false"/>
+  </style:style>
+  <style:style style:name="gr3" style:family="graphic">
+   <style:graphic-properties draw:textarea-horizontal-align="justify" draw:textarea-vertical-align="middle" draw:auto-grow-height="false" fo:min-height="0.4071in" fo:min-width="0.4071in" style:run-through="foreground" style:wrap="run-through" style:number-wrapped-paragraphs="no-limit" style:vertical-pos="from-top" style:vertical-rel="paragraph" style:horizontal-pos="from-left" style:horizontal-rel="paragraph" draw:wrap-influence-on-position="once-concurrent" loext:allow-overlap="true" style:flow-with-text="false"/>
+  </style:style>
+  <style:page-layout style:name="pm1">
+   <style:page-layout-properties fo:page-width="8.5in" fo:page-height="11in" style:num-format="1" style:print-orientation="portrait" fo:margin-top="0.7874in" fo:margin-bottom="0.7874in" fo:margin-left="0.7874in" fo:margin-right="0.7874in" style:writing-mode="lr-tb" style:layout-grid-color="#c0c0c0" style:layout-grid-lines="20" style:layout-grid-base-height="0.278in" style:layout-grid-ruby-height="0.139in" style:layout-grid-mode="none" style:layout-grid-ruby-below="false" style:layout-grid-print="false" style:layout-grid-display="false" style:footnote-max-height="0in">
+    <style:footnote-sep style:width="0.0071in" style:distance-before-sep="0.0398in" style:distance-after-sep="0.0398in" style:line-style="solid" style:adjustment="left" style:rel-width="25%" style:color="#000000"/>
+   </style:page-layout-properties>
+   <style:header-style/>
+   <style:footer-style/>
+  </style:page-layout>
+ </office:automatic-styles>
+ <office:master-styles>
+  <style:master-page style:name="Standard" style:page-layout-name="pm1"/>
+ </office:master-styles>
+ <office:body>
+  <office:text text:use-soft-page-breaks="true">
+   <text:sequence-decls>
+    <text:sequence-decl text:display-outline-level="0" text:name="Illustration"/>
+    <text:sequence-decl text:display-outline-level="0" text:name="Table"/>
+    <text:sequence-decl text:display-outline-level="0" text:name="Text"/>
+    <text:sequence-decl text:display-outline-level="0" text:name="Drawing"/>
+    <text:sequence-decl text:display-outline-level="0" text:name="Figure"/>
+   </text:sequence-decls>
+   <text:table-of-content text:style-name="Sect1" text:protected="true" text:name="Table of Contents1">
+    <text:table-of-content-source text:outline-level="10">
+     <text:index-title-template text:style-name="Contents_20_Heading">Table of Contents</text:index-title-template>
+     <text:table-of-content-entry-template text:outline-level="1" text:style-name="Contents_20_1">
+      <text:index-entry-link-start text:style-name="Index_20_Link"/>
+      <text:index-entry-chapter/>
+      <text:index-entry-text/>
+      <text:index-entry-tab-stop style:type="right" style:leader-char="."/>
+      <text:index-entry-page-number/>
+      <text:index-entry-link-end/>
+     </text:table-of-content-entry-template>
+     <text:table-of-content-entry-template text:outline-level="2" text:style-name="Contents_20_2">
+      <text:index-entry-link-start text:style-name="Index_20_Link"/>
+      <text:index-entry-chapter/>
+      <text:index-entry-text/>
+      <text:index-entry-tab-stop style:type="right" style:leader-char="."/>
+      <text:index-entry-page-number/>
+      <text:index-entry-link-end/>
+     </text:table-of-content-entry-template>
+     <text:table-of-content-entry-template text:outline-level="3" text:style-name="Contents_20_3">
+      <text:index-entry-link-start text:style-name="Index_20_Link"/>
+      <text:index-entry-chapter/>
+      <text:index-entry-text/>
+      <text:index-entry-tab-stop style:type="right" style:leader-char="."/>
+      <text:index-entry-page-number/>
+      <text:index-entry-link-end/>
+     </text:table-of-content-entry-template>
+     <text:table-of-content-entry-template text:outline-level="4" text:style-name="Contents_20_4">
+      <text:index-entry-link-start text:style-name="Index_20_Link"/>
+      <text:index-entry-chapter/>
+      <text:index-entry-text/>
+      <text:index-entry-tab-stop style:type="right" style:leader-char="."/>
+      <text:index-entry-page-number/>
+      <text:index-entry-link-end/>
+     </text:table-of-content-entry-template>
+     <text:table-of-content-entry-template text:outline-level="5" text:style-name="Contents_20_5">
+      <text:index-entry-link-start text:style-name="Index_20_Link"/>
+      <text:index-entry-chapter/>
+      <text:index-entry-text/>
+      <text:index-entry-tab-stop style:type="right" style:leader-char="."/>
+      <text:index-entry-page-number/>
+      <text:index-entry-link-end/>
+     </text:table-of-content-entry-template>
+     <text:table-of-content-entry-template text:outline-level="6" text:style-name="Contents_20_6">
+      <text:index-entry-link-start text:style-name="Index_20_Link"/>
+      <text:index-entry-chapter/>
+      <text:index-entry-text/>
+      <text:index-entry-tab-stop style:type="right" style:leader-char="."/>
+      <text:index-entry-page-number/>
+      <text:index-entry-link-end/>
+     </text:table-of-content-entry-template>
+     <text:table-of-content-entry-template text:outline-level="7" text:style-name="Contents_20_7">
+      <text:index-entry-link-start text:style-name="Index_20_Link"/>
+      <text:index-entry-chapter/>
+      <text:index-entry-text/>
+      <text:index-entry-tab-stop style:type="right" style:leader-char="."/>
+      <text:index-entry-page-number/>
+      <text:index-entry-link-end/>
+     </text:table-of-content-entry-template>
+     <text:table-of-content-entry-template text:outline-level="8" text:style-name="Contents_20_8">
+      <text:index-entry-link-start text:style-name="Index_20_Link"/>
+      <text:index-entry-chapter/>
+      <text:index-entry-text/>
+      <text:index-entry-tab-stop style:type="right" style:leader-char="."/>
+      <text:index-entry-page-number/>
+      <text:index-entry-link-end/>
+     </text:table-of-content-entry-template>
+     <text:table-of-content-entry-template text:outline-level="9" text:style-name="Contents_20_9">
+      <text:index-entry-link-start text:style-name="Index_20_Link"/>
+      <text:index-entry-chapter/>
+      <text:index-entry-text/>
+      <text:index-entry-tab-stop style:type="right" style:leader-char="."/>
+      <text:index-entry-page-number/>
+      <text:index-entry-link-end/>
+     </text:table-of-content-entry-template>
+     <text:table-of-content-entry-template text:outline-level="10" text:style-name="Contents_20_10">
+      <text:index-entry-link-start text:style-name="Index_20_Link"/>
+      <text:index-entry-chapter/>
+      <text:index-entry-text/>
+      <text:index-entry-tab-stop style:type="right" style:leader-char="."/>
+      <text:index-entry-page-number/>
+      <text:index-entry-link-end/>
+     </text:table-of-content-entry-template>
+    </text:table-of-content-source>
+    <text:index-body>
+     <text:index-title text:style-name="Sect1" text:name="Table of Contents1_Head">
+      <text:p text:style-name="Contents_20_Heading">Table of Contents</text:p>
+     </text:index-title>
+     <text:p text:style-name="P1"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc979_2072754361" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link">Intro<text:tab/>2</text:a></text:p>
+     <text:p text:style-name="P1"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc981_2072754361" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link">Prime numbers<text:tab/>3</text:a></text:p>
+     <text:p text:style-name="P66"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc105_3783474358" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link">Composite number<text:tab/>3</text:a></text:p>
+     <text:p text:style-name="P66"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc107_3783474358" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link">Factorization<text:tab/>3</text:a></text:p>
+     <text:p text:style-name="P1"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc983_2072754361" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link">Fractions<text:tab/>4</text:a></text:p>
+     <text:p text:style-name="P66"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc335_2072754361" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link">Equivalent Fractions<text:tab/>4</text:a></text:p>
+     <text:p text:style-name="P66"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc337_2072754361" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link">Adding, Subtracting Fractions<text:tab/>4</text:a></text:p>
+     <text:p text:style-name="P66"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc339_2072754361" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link">Dividing, and Multiplying Fractions<text:tab/>4</text:a></text:p>
+     <text:p text:style-name="P1"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc341_2072754361" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link">Mixed numbers &amp; Improper Fractions<text:tab/>5</text:a></text:p>
+     <text:p text:style-name="P66"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc985_2072754361" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link">Mixed Numbers<text:tab/>5</text:a></text:p>
+     <text:p text:style-name="P66"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc987_2072754361" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link">Improper Fractions<text:tab/>5</text:a></text:p>
+     <text:p text:style-name="P1"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc343_2072754361" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link">Area<text:tab/>6</text:a></text:p>
+     <text:p text:style-name="P1"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc345_2072754361" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link">Perimeter<text:tab/>6</text:a></text:p>
+     <text:p text:style-name="P1"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc347_2072754361" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link">Distributive Property<text:tab/>6</text:a></text:p>
+     <text:p text:style-name="P1"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc349_2072754361" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link">Commutative Property<text:tab/>6</text:a></text:p>
+     <text:p text:style-name="P1"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc351_2072754361" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link">Associative Property<text:tab/>6</text:a></text:p>
+     <text:p text:style-name="P1"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc353_2072754361" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link">Multiple<text:tab/>7</text:a></text:p>
+    </text:index-body>
+   </text:table-of-content>
+   <text:p text:style-name="P50"/>
+   <text:p text:style-name="P50"/>
+   <text:h text:style-name="P56" text:outline-level="1"><text:bookmark-start text:name="__RefHeading___Toc979_2072754361"/>Intro<text:bookmark-end text:name="__RefHeading___Toc979_2072754361"/></text:h>
+   <text:p text:style-name="P30">This book is about math things! You can find definitions of things and examples of math things in this book. You might even learn something new here! Enjoy~</text:p>
+   <text:p text:style-name="P20"/>
+   <text:h text:style-name="P56" text:outline-level="1"><text:bookmark-start text:name="__RefHeading___Toc981_2072754361"/>Prime numbers<text:bookmark-end text:name="__RefHeading___Toc981_2072754361"/></text:h>
+   <text:p text:style-name="P28">A prime number is a number that you can only divide by one and itself. Some prime numbers are: <text:span text:style-name="T2">2,3, and 5. </text:span><text:span text:style-name="T3">There is an algorithm called the sieve or Eratosthenes, and you can use it to find prime numbers.</text:span></text:p>
+   <text:h text:style-name="Heading_20_2" text:outline-level="2"><text:bookmark-start text:name="__RefHeading___Toc105_3783474358"/>Composite number<text:bookmark-end text:name="__RefHeading___Toc105_3783474358"/></text:h>
+   <text:p text:style-name="P29">You can divide composite number by a lot of other numbers:</text:p>
+   <text:list xml:id="list3578814764" text:style-name="L1">
+    <text:list-item>
+     <text:p text:style-name="P74">that are prime</text:p>
+    </text:list-item>
+    <text:list-item>
+     <text:p text:style-name="P74">or composite</text:p>
+    </text:list-item>
+   </text:list>
+   <text:p text:style-name="P29">Prime numbers are like Lego blocks, using prime numbers you can make composite numbers. Example: 16 = 8 * 2</text:p>
+   <text:h text:style-name="Heading_20_2" text:outline-level="2"><text:bookmark-start text:name="__RefHeading___Toc107_3783474358"/>Factorization<text:bookmark-end text:name="__RefHeading___Toc107_3783474358"/></text:h>
+   <text:p text:style-name="P29">It is a process of splitting composite numbers on primes (ONLY PRIMES)</text:p>
+   <text:p text:style-name="P21"><draw:frame draw:style-name="fr3" draw:name="Object1" text:anchor-type="char" svg:x="1.2709in" svg:y="-0.0717in" svg:width="4.4591in" svg:height="3.2925in" draw:z-index="0"><draw:object><office:document xmlns:meta="urn:oasis:names:tc:opendocument:xmlns:meta:1.0" xmlns:office="urn:oasis:names:tc:opendocument:xmlns:office:1.0" xmlns:fo="urn:oasis:names:tc:opendocument:xmlns:xsl-fo-compatible:1.0" xmlns:ooo="http://openoffice.org/2004/office" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:style="urn:oasis:names:tc:opendocument:xmlns:style:1.0" xmlns:config="urn:oasis:names:tc:opendocument:xmlns:config:1.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:text="urn:oasis:names:tc:opendocument:xmlns:text:1.0" xmlns:draw="urn:oasis:names:tc:opendocument:xmlns:drawing:1.0" xmlns:dr3d="urn:oasis:names:tc:opendocument:xmlns:dr3d:1.0" xmlns:svg="urn:oasis:names:tc:opendocument:xmlns:svg-compatible:1.0" xmlns:chart="urn:oasis:names:tc:opendocument:xmlns:chart:1.0" xmlns:rpt="http://openoffice.org/2005/report" xmlns:table="urn:oasis:names:tc:opendocument:xmlns:table:1.0" xmlns:number="urn:oasis:names:tc:opendocument:xmlns:datastyle:1.0" xmlns:ooow="http://openoffice.org/2004/writer" xmlns:oooc="http://openoffice.org/2004/calc" xmlns:of="urn:oasis:names:tc:opendocument:xmlns:of:1.2" xmlns:tableooo="http://openoffice.org/2009/table" xmlns:calcext="urn:org:documentfoundation:names:experimental:calc:xmlns:calcext:1.0" xmlns:drawooo="http://openoffice.org/2010/draw" xmlns:loext="urn:org:documentfoundation:names:experimental:office:xmlns:loext:1.0" xmlns:field="urn:openoffice:names:experimental:ooo-ms-interop:xmlns:field:1.0" xmlns:math="http://www.w3.org/1998/Math/MathML" xmlns:form="urn:oasis:names:tc:opendocument:xmlns:form:1.0" xmlns:script="urn:oasis:names:tc:opendocument:xmlns:script:1.0" xmlns:dom="http://www.w3.org/2001/xml-events" xmlns:xforms="http://www.w3.org/2002/xforms" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:formx="urn:openoffice:names:experimental:ooxml-odf-interop:xmlns:form:1.0" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:grddl="http://www.w3.org/2003/g/data-view#" xmlns:css3t="http://www.w3.org/TR/css3-text/" xmlns:presentation="urn:oasis:names:tc:opendocument:xmlns:presentation:1.0" xmlns:smil="urn:oasis:names:tc:opendocument:xmlns:smil-compatible:1.0" xmlns:anim="urn:oasis:names:tc:opendocument:xmlns:animation:1.0" xmlns:officeooo="http://openoffice.org/2009/office" office:version="1.3" office:mimetype="application/vnd.oasis.opendocument.graphics"><office:meta><meta:generator>LibreOffice/7.1.2.2$Windows_X86_64 LibreOffice_project/8a45595d069ef5570103caea1b71cc9d82b2aae4</meta:generator><meta:creation-date>2021-04-28T20:06:47.599000000</meta:creation-date><meta:document-statistic meta:object-count="13"/></office:meta><office:settings><config:config-item-set config:name="ooo:view-settings"><config:config-item config:name="VisibleAreaTop" config:type="int">0</config:config-item><config:config-item config:name="VisibleAreaLeft" config:type="int">0</config:config-item><config:config-item config:name="VisibleAreaWidth" config:type="int">11325</config:config-item><config:config-item config:name="VisibleAreaHeight" config:type="int">8362</config:config-item></config:config-item-set><config:config-item-set config:name="ooo:configuration-settings"><config:config-item config:name="ApplyUserData" config:type="boolean">true</config:config-item><config:config-item config:name="BitmapTableURL" config:type="string">$(inst)/share/palette%3B$(user)/config/standard.sob</config:config-item><config:config-item config:name="CharacterCompressionType" config:type="short">0</config:config-item><config:config-item config:name="ColorTableURL" config:type="string">$(inst)/share/palette%3B$(user)/config/standard.soc</config:config-item><config:config-item config:name="DashTableURL" config:type="string">$(inst)/share/palette%3B$(user)/config/standard.sod</config:config-item><config:config-item config:name="DefaultTabStop" config:type="int">1270</config:config-item><config:config-item config:name="EmbedAsianScriptFonts" config:type="boolean">true</config:config-item><config:config-item config:name="EmbedComplexScriptFonts" config:type="boolean">true</config:config-item><config:config-item config:name="EmbedFonts" config:type="boolean">false</config:config-item><config:config-item config:name="EmbedLatinScriptFonts" config:type="boolean">true</config:config-item><config:config-item config:name="EmbedOnlyUsedFonts" config:type="boolean">false</config:config-item><config:config-item config:name="GradientTableURL" config:type="string">$(inst)/share/palette%3B$(user)/config/standard.sog</config:config-item><config:config-item config:name="HatchTableURL" config:type="string">$(inst)/share/palette%3B$(user)/config/standard.soh</config:config-item><config:config-item config:name="IsKernAsianPunctuation" config:type="boolean">false</config:config-item><config:config-item config:name="IsPrintBooklet" config:type="boolean">false</config:config-item><config:config-item config:name="IsPrintBookletBack" config:type="boolean">true</config:config-item><config:config-item config:name="IsPrintBookletFront" config:type="boolean">true</config:config-item><config:config-item config:name="IsPrintDate" config:type="boolean">false</config:config-item><config:config-item config:name="IsPrintFitPage" config:type="boolean">false</config:config-item><config:config-item config:name="IsPrintHiddenPages" config:type="boolean">true</config:config-item><config:config-item config:name="IsPrintPageName" config:type="boolean">false</config:config-item><config:config-item config:name="IsPrintTilePage" config:type="boolean">false</config:config-item><config:config-item config:name="IsPrintTime" config:type="boolean">false</config:config-item><config:config-item config:name="LineEndTableURL" config:type="string">$(inst)/share/palette%3B$(user)/config/standard.soe</config:config-item><config:config-item config:name="LoadReadonly" config:type="boolean">false</config:config-item><config:config-item config:name="MeasureUnit" config:type="short">7</config:config-item><config:config-item config:name="PageNumberFormat" config:type="int">4</config:config-item><config:config-item config:name="ParagraphSummation" config:type="boolean">false</config:config-item><config:config-item config:name="PrintQuality" config:type="int">0</config:config-item><config:config-item config:name="PrinterIndependentLayout" config:type="string">low-resolution</config:config-item><config:config-item config:name="PrinterName" config:type="string"/><config:config-item config:name="PrinterPaperFromSetup" config:type="boolean">false</config:config-item><config:config-item config:name="PrinterSetup" config:type="base64Binary"/><config:config-item config:name="SaveThumbnail" config:type="boolean">true</config:config-item><config:config-item config:name="SaveVersionOnClose" config:type="boolean">false</config:config-item><config:config-item config:name="ScaleDenominator" config:type="int">1</config:config-item><config:config-item config:name="ScaleNumerator" config:type="int">1</config:config-item><config:config-item config:name="UpdateFromTemplate" config:type="boolean">true</config:config-item></config:config-item-set></office:settings><office:scripts><office:script script:language="ooo:Basic">
+         <ooo:libraries xmlns:ooo="http://openoffice.org/2004/office" xmlns:xlink="http://www.w3.org/1999/xlink">
+          <ooo:library-embedded ooo:name="Standard"/>
+         </ooo:libraries></office:script></office:scripts><office:font-face-decls><style:font-face style:name="Liberation Sans" svg:font-family="&apos;Liberation Sans&apos;" style:font-family-generic="roman" style:font-pitch="variable"/><style:font-face style:name="Liberation Serif" svg:font-family="&apos;Liberation Serif&apos;" style:font-family-generic="roman" style:font-pitch="variable"/><style:font-face style:name="Noto Sans" svg:font-family="&apos;Noto Sans&apos;" style:font-family-generic="roman" style:font-pitch="variable"/><style:font-face style:name="Lucida Sans" svg:font-family="&apos;Lucida Sans&apos;" style:font-family-generic="system" style:font-pitch="variable"/><style:font-face style:name="Microsoft YaHei" svg:font-family="&apos;Microsoft YaHei&apos;" style:font-family-generic="system" style:font-pitch="variable"/><style:font-face style:name="Segoe UI" svg:font-family="&apos;Segoe UI&apos;" style:font-family-generic="system" style:font-pitch="variable"/><style:font-face style:name="Tahoma" svg:font-family="Tahoma" style:font-family-generic="system" style:font-pitch="variable"/></office:font-face-decls><office:styles><draw:gradient draw:name="Filled" draw:style="linear" draw:start-color="#ffffff" draw:end-color="#cccccc" draw:start-intensity="100%" draw:end-intensity="100%" draw:angle="30deg" draw:border="0%"/><draw:gradient draw:name="Filled_20_Blue" draw:display-name="Filled Blue" draw:style="linear" draw:start-color="#729fcf" draw:end-color="#355269" draw:start-intensity="100%" draw:end-intensity="100%" draw:angle="30deg" draw:border="0%"/><draw:gradient draw:name="Filled_20_Green" draw:display-name="Filled Green" draw:style="linear" draw:start-color="#77bc65" draw:end-color="#127622" draw:start-intensity="100%" draw:end-intensity="100%" draw:angle="30deg" draw:border="0%"/><draw:gradient draw:name="Filled_20_Red" draw:display-name="Filled Red" draw:style="linear" draw:start-color="#ff6d6d" draw:end-color="#c9211e" draw:start-intensity="100%" draw:end-intensity="100%" draw:angle="30deg" draw:border="0%"/><draw:gradient draw:name="Filled_20_Yellow" draw:display-name="Filled Yellow" draw:style="linear" draw:start-color="#ffde59" draw:end-color="#b47804" draw:start-intensity="100%" draw:end-intensity="100%" draw:angle="30deg" draw:border="0%"/><draw:gradient draw:name="Shapes" draw:style="rectangular" draw:cx="50%" draw:cy="50%" draw:start-color="#cccccc" draw:end-color="#ffffff" draw:start-intensity="100%" draw:end-intensity="100%" draw:angle="0deg" draw:border="0%"/><draw:marker draw:name="Arrow" svg:viewBox="0 0 20 30" svg:d="M10 0l-10 30h20z"/><style:default-style style:family="graphic"><style:graphic-properties svg:stroke-color="#3465a4" draw:fill-color="#729fcf" fo:wrap-option="no-wrap"/><style:paragraph-properties style:text-autospace="ideograph-alpha" style:punctuation-wrap="simple" style:line-break="strict" style:writing-mode="lr-tb" style:font-independent-line-spacing="false"><style:tab-stops/></style:paragraph-properties><style:text-properties style:use-window-font-color="true" loext:opacity="0%" style:font-name="Liberation Serif" fo:font-size="24pt" fo:language="en" fo:country="US" style:font-name-asian="Segoe UI" style:font-size-asian="24pt" style:language-asian="zh" style:country-asian="CN" style:font-name-complex="Tahoma" style:font-size-complex="24pt" style:language-complex="hi" style:country-complex="IN"/></style:default-style><style:style style:name="standard" style:family="graphic"><style:graphic-properties draw:stroke="solid" svg:stroke-width="0cm" svg:stroke-color="#3465a4" draw:marker-start-width="0.2cm" draw:marker-start-center="false" draw:marker-end-width="0.2cm" draw:marker-end-center="false" draw:fill="solid" draw:fill-color="#729fcf" draw:textarea-horizontal-align="justify" fo:padding-top="0.125cm" fo:padding-bottom="0.125cm" fo:padding-left="0.25cm" fo:padding-right="0.25cm" draw:shadow="hidden" draw:shadow-offset-x="0.2cm" draw:shadow-offset-y="0.2cm" draw:shadow-color="#808080"><text:list-style style:name="standard"><text:list-level-style-bullet text:level="1" text:bullet-char="●"><style:list-level-properties text:min-label-width="0.6cm"/><style:text-properties fo:font-family="StarSymbol" style:use-window-font-color="true" fo:font-size="45%"/></text:list-level-style-bullet><text:list-level-style-bullet text:level="2" text:bullet-char="●"><style:list-level-properties text:space-before="0.6cm" text:min-label-width="0.6cm"/><style:text-properties fo:font-family="StarSymbol" style:use-window-font-color="true" fo:font-size="45%"/></text:list-level-style-bullet><text:list-level-style-bullet text:level="3" text:bullet-char="●"><style:list-level-properties text:space-before="1.2cm" text:min-label-width="0.6cm"/><style:text-properties fo:font-family="StarSymbol" style:use-window-font-color="true" fo:font-size="45%"/></text:list-level-style-bullet><text:list-level-style-bullet text:level="4" text:bullet-char="●"><style:list-level-properties text:space-before="1.8cm" text:min-label-width="0.6cm"/><style:text-properties fo:font-family="StarSymbol" style:use-window-font-color="true" fo:font-size="45%"/></text:list-level-style-bullet><text:list-level-style-bullet text:level="5" text:bullet-char="●"><style:list-level-properties text:space-before="2.4cm" text:min-label-width="0.6cm"/><style:text-properties fo:font-family="StarSymbol" style:use-window-font-color="true" fo:font-size="45%"/></text:list-level-style-bullet><text:list-level-style-bullet text:level="6" text:bullet-char="●"><style:list-level-properties text:space-before="3cm" text:min-label-width="0.6cm"/><style:text-properties fo:font-family="StarSymbol" style:use-window-font-color="true" fo:font-size="45%"/></text:list-level-style-bullet><text:list-level-style-bullet text:level="7" text:bullet-char="●"><style:list-level-properties text:space-before="3.6cm" text:min-label-width="0.6cm"/><style:text-properties fo:font-family="StarSymbol" style:use-window-font-color="true" fo:font-size="45%"/></text:list-level-style-bullet><text:list-level-style-bullet text:level="8" text:bullet-char="●"><style:list-level-properties text:space-before="4.2cm" text:min-label-width="0.6cm"/><style:text-properties fo:font-family="StarSymbol" style:use-window-font-color="true" fo:font-size="45%"/></text:list-level-style-bullet><text:list-level-style-bullet text:level="9" text:bullet-char="●"><style:list-level-properties text:space-before="4.8cm" text:min-label-width="0.6cm"/><style:text-properties fo:font-family="StarSymbol" style:use-window-font-color="true" fo:font-size="45%"/></text:list-level-style-bullet><text:list-level-style-bullet text:level="10" text:bullet-char="●"><style:list-level-properties text:space-before="5.4cm" text:min-label-width="0.6cm"/><style:text-properties fo:font-family="StarSymbol" style:use-window-font-color="true" fo:font-size="45%"/></text:list-level-style-bullet></text:list-style></style:graphic-properties><style:paragraph-properties fo:margin-left="0cm" fo:margin-right="0cm" fo:margin-top="0cm" fo:margin-bottom="0cm" fo:line-height="100%" fo:text-indent="0cm"/><style:text-properties fo:font-variant="normal" fo:text-transform="none" style:use-window-font-color="true" loext:opacity="0%" style:text-outline="false" style:text-line-through-style="none" style:text-line-through-type="none" style:font-name="Liberation Sans" fo:font-family="&apos;Liberation Sans&apos;" style:font-family-generic="roman" style:font-pitch="variable" fo:font-size="18pt" fo:font-style="normal" fo:text-shadow="none" style:text-underline-style="none" fo:font-weight="normal" style:letter-kerning="true" style:font-name-asian="Microsoft YaHei" style:font-family-asian="&apos;Microsoft YaHei&apos;" style:font-family-generic-asian="system" style:font-pitch-asian="variable" style:font-size-asian="18pt" style:font-style-asian="normal" style:font-weight-asian="normal" style:font-name-complex="Lucida Sans" style:font-family-complex="&apos;Lucida Sans&apos;" style:font-family-generic-complex="system" style:font-pitch-complex="variable" style:font-size-complex="18pt" style:font-style-complex="normal" style:font-weight-complex="normal" style:text-emphasize="none" style:font-relief="none" style:text-overline-style="none" style:text-overline-color="font-color"/></style:style><style:style style:name="objectwithoutfill" style:family="graphic" style:parent-style-name="standard"><style:graphic-properties draw:fill="none"/></style:style><style:style style:name="Object_20_with_20_no_20_fill_20_and_20_no_20_line" style:display-name="Object with no fill and no line" style:family="graphic" style:parent-style-name="standard"><style:graphic-properties draw:stroke="none" draw:fill="none"/></style:style><style:style style:name="Text" style:family="graphic"><style:graphic-properties draw:stroke="solid" svg:stroke-color="#cccccc" draw:fill="solid" draw:fill-color="#eeeeee"/><style:text-properties style:font-name="Noto Sans" fo:font-family="&apos;Noto Sans&apos;" style:font-family-generic="roman" style:font-pitch="variable"/></style:style><style:style style:name="A4" style:family="graphic" style:parent-style-name="Text"><style:graphic-properties draw:fill="none"/><style:text-properties fo:font-size="18pt"/></style:style><style:style style:name="Title_20_A4" style:display-name="Title A4" style:family="graphic" style:parent-style-name="A4"><style:graphic-properties draw:stroke="none"/><style:text-properties fo:font-size="44pt"/></style:style><style:style style:name="Heading_20_A4" style:display-name="Heading A4" style:family="graphic" style:parent-style-name="A4"><style:graphic-properties draw:stroke="none"/><style:text-properties fo:font-size="24pt"/></style:style><style:style style:name="Text_20_A4" style:display-name="Text A4" style:family="graphic" style:parent-style-name="A4"><style:graphic-properties draw:stroke="none"/></style:style><style:style style:name="A4" style:family="graphic" style:parent-style-name="Text"><style:graphic-properties draw:fill="none"/><style:text-properties fo:font-size="18pt"/></style:style><style:style style:name="Title_20_A0" style:display-name="Title A0" style:family="graphic" style:parent-style-name="A4"><style:graphic-properties draw:stroke="none"/><style:text-properties fo:font-size="96pt"/></style:style><style:style style:name="Heading_20_A0" style:display-name="Heading A0" style:family="graphic" style:parent-style-name="A4"><style:graphic-properties draw:stroke="none"/><style:text-properties fo:font-size="72pt"/></style:style><style:style style:name="Text_20_A0" style:display-name="Text A0" style:family="graphic" style:parent-style-name="A4"><style:graphic-properties draw:stroke="none"/></style:style><style:style style:name="Graphic" style:family="graphic"><style:graphic-properties draw:fill="solid" draw:fill-color="#ffffff"/><style:text-properties style:font-name="Liberation Sans" fo:font-family="&apos;Liberation Sans&apos;" style:font-family-generic="roman" style:font-pitch="variable" fo:font-size="18pt"/></style:style><style:style style:name="Shapes" style:family="graphic" style:parent-style-name="Graphic"><style:graphic-properties draw:stroke="none" draw:fill="gradient" draw:fill-gradient-name="Shapes"/><style:text-properties fo:font-size="14pt" fo:font-weight="bold"/></style:style><style:style style:name="Filled" style:family="graphic" style:parent-style-name="Shapes"><style:graphic-properties draw:fill="gradient" draw:fill-gradient-name="Filled"/></style:style><style:style style:name="Filled_20_Blue" style:display-name="Filled Blue" style:family="graphic" style:parent-style-name="Filled"><style:graphic-properties draw:fill-gradient-name="Filled_20_Blue"/><style:text-properties fo:color="#ffffff" loext:opacity="100%"/></style:style><style:style style:name="Filled_20_Green" style:display-name="Filled Green" style:family="graphic" style:parent-style-name="Filled"><style:graphic-properties draw:fill-gradient-name="Filled_20_Green"/><style:text-properties fo:color="#ffffff" loext:opacity="100%" style:font-name="Liberation Sans" fo:font-family="&apos;Liberation Sans&apos;" style:font-family-generic="roman" style:font-pitch="variable"/></style:style><style:style style:name="Filled_20_Red" style:display-name="Filled Red" style:family="graphic" style:parent-style-name="Filled"><style:graphic-properties draw:fill-gradient-name="Filled_20_Red"/><style:text-properties fo:color="#ffffff" loext:opacity="100%"/></style:style><style:style style:name="Filled_20_Yellow" style:display-name="Filled Yellow" style:family="graphic" style:parent-style-name="Filled"><style:graphic-properties draw:fill-gradient-name="Filled_20_Yellow"/><style:text-properties fo:color="#ffffff" loext:opacity="100%"/></style:style><style:style style:name="Outlined" style:family="graphic" style:parent-style-name="Shapes"><style:graphic-properties draw:stroke="solid" svg:stroke-width="0.081cm" svg:stroke-color="#000000" draw:fill="none"/></style:style><style:style style:name="Outlined_20_Blue" style:display-name="Outlined Blue" style:family="graphic" style:parent-style-name="Outlined"><style:graphic-properties svg:stroke-color="#355269"/><style:text-properties fo:color="#355269" loext:opacity="100%"/></style:style><style:style style:name="Outlined_20_Green" style:display-name="Outlined Green" style:family="graphic" style:parent-style-name="Outlined"><style:graphic-properties svg:stroke-color="#127622"/><style:text-properties fo:color="#127622" loext:opacity="100%"/></style:style><style:style style:name="Outlined_20_Red" style:display-name="Outlined Red" style:family="graphic" style:parent-style-name="Outlined"><style:graphic-properties svg:stroke-color="#c9211e"/><style:text-properties fo:color="#c9211e" loext:opacity="100%"/></style:style><style:style style:name="Outlined_20_Yellow" style:display-name="Outlined Yellow" style:family="graphic" style:parent-style-name="Outlined"><style:graphic-properties draw:stroke="solid" svg:stroke-color="#b47804"/><style:text-properties fo:color="#b47804" loext:opacity="100%"/></style:style><style:style style:name="Lines" style:family="graphic" style:parent-style-name="Graphic"><style:graphic-properties draw:stroke="solid" svg:stroke-color="#000000" draw:fill="none"/></style:style><style:style style:name="Arrow_20_Line" style:display-name="Arrow Line" style:family="graphic" style:parent-style-name="Lines"><style:graphic-properties draw:marker-start="Arrow" draw:marker-start-width="0.2cm" draw:marker-end="Arrow" draw:marker-end-width="0.2cm" draw:show-unit="true"/></style:style><style:style style:name="Arrow_20_Dashed" style:display-name="Arrow Dashed" style:family="graphic" style:parent-style-name="Lines"><style:graphic-properties draw:stroke="dash"/></style:style></office:styles><office:automatic-styles><style:page-layout style:name="PM0"><style:page-layout-properties fo:margin-top="1cm" fo:margin-bottom="1cm" fo:margin-left="1cm" fo:margin-right="1cm" fo:page-width="21.59cm" fo:page-height="27.94cm" style:print-orientation="portrait"/></style:page-layout><style:style style:name="dp1" style:family="drawing-page"><style:drawing-page-properties draw:background-size="border" draw:fill="none"/></style:style><style:style style:name="dp2" style:family="drawing-page"/><style:style style:name="gr1" style:family="graphic" style:parent-style-name="standard"><style:graphic-properties draw:fill="solid" draw:fill-color="#81d41a" draw:opacity="100%" draw:textarea-horizontal-align="justify" draw:textarea-vertical-align="middle" draw:auto-grow-height="false" fo:min-height="0.396cm" fo:min-width="0.655cm"/><style:paragraph-properties style:writing-mode="lr-tb"/></style:style><style:style style:name="gr2" style:family="graphic" style:parent-style-name="standard"><style:graphic-properties draw:textarea-horizontal-align="justify" draw:textarea-vertical-align="middle" draw:auto-grow-height="false" fo:min-height="0.397cm" fo:min-width="0.655cm"/><style:paragraph-properties style:writing-mode="lr-tb"/></style:style><style:style style:name="gr3" style:family="graphic" style:parent-style-name="standard"><style:graphic-properties draw:textarea-horizontal-align="justify" draw:textarea-vertical-align="middle" draw:auto-grow-height="false" fo:min-height="0.396cm" fo:min-width="0.655cm"/><style:paragraph-properties style:writing-mode="lr-tb"/></style:style><style:style style:name="gr4" style:family="graphic" style:parent-style-name="standard"><style:graphic-properties draw:fill-color="#81d41a" draw:textarea-horizontal-align="justify" draw:textarea-vertical-align="middle" draw:auto-grow-height="false" fo:min-height="0.396cm" fo:min-width="0.424cm"/><style:paragraph-properties style:writing-mode="lr-tb"/></style:style><style:style style:name="gr5" style:family="graphic" style:parent-style-name="standard"><style:graphic-properties draw:textarea-horizontal-align="justify" draw:textarea-vertical-align="middle" draw:auto-grow-height="false" fo:min-height="0.396cm" fo:min-width="0.424cm"/><style:paragraph-properties style:writing-mode="lr-tb"/></style:style><style:style style:name="gr6" style:family="graphic" style:parent-style-name="standard"><style:graphic-properties draw:textarea-vertical-align="middle"/></style:style><style:style style:name="P1" style:family="paragraph"><style:paragraph-properties fo:text-align="center" style:writing-mode="lr-tb"/></style:style><style:style style:name="P2" style:family="paragraph"><loext:graphic-properties draw:fill="solid" draw:fill-color="#81d41a" draw:opacity="100%"/><style:paragraph-properties fo:text-align="center" style:writing-mode="lr-tb"/></style:style><style:style style:name="P3" style:family="paragraph"><loext:graphic-properties draw:fill-color="#81d41a"/><style:paragraph-properties fo:text-align="center" style:writing-mode="lr-tb"/></style:style><style:style style:name="P4" style:family="paragraph"><style:paragraph-properties fo:text-align="center"/></style:style><text:list-style style:name="L1"><text:list-level-style-bullet text:level="1" text:bullet-char="●"><style:list-level-properties text:min-label-width="0.6cm"/><style:text-properties fo:font-family="StarSymbol" style:use-window-font-color="true" fo:font-size="45%"/></text:list-level-style-bullet><text:list-level-style-bullet text:level="2" text:bullet-char="●"><style:list-level-properties text:space-before="0.6cm" text:min-label-width="0.6cm"/><style:text-properties fo:font-family="StarSymbol" style:use-window-font-color="true" fo:font-size="45%"/></text:list-level-style-bullet><text:list-level-style-bullet text:level="3" text:bullet-char="●"><style:list-level-properties text:space-before="1.2cm" text:min-label-width="0.6cm"/><style:text-properties fo:font-family="StarSymbol" style:use-window-font-color="true" fo:font-size="45%"/></text:list-level-style-bullet><text:list-level-style-bullet text:level="4" text:bullet-char="●"><style:list-level-properties text:space-before="1.8cm" text:min-label-width="0.6cm"/><style:text-properties fo:font-family="StarSymbol" style:use-window-font-color="true" fo:font-size="45%"/></text:list-level-style-bullet><text:list-level-style-bullet text:level="5" text:bullet-char="●"><style:list-level-properties text:space-before="2.4cm" text:min-label-width="0.6cm"/><style:text-properties fo:font-family="StarSymbol" style:use-window-font-color="true" fo:font-size="45%"/></text:list-level-style-bullet><text:list-level-style-bullet text:level="6" text:bullet-char="●"><style:list-level-properties text:space-before="3cm" text:min-label-width="0.6cm"/><style:text-properties fo:font-family="StarSymbol" style:use-window-font-color="true" fo:font-size="45%"/></text:list-level-style-bullet><text:list-level-style-bullet text:level="7" text:bullet-char="●"><style:list-level-properties text:space-before="3.6cm" text:min-label-width="0.6cm"/><style:text-properties fo:font-family="StarSymbol" style:use-window-font-color="true" fo:font-size="45%"/></text:list-level-style-bullet><text:list-level-style-bullet text:level="8" text:bullet-char="●"><style:list-level-properties text:space-before="4.2cm" text:min-label-width="0.6cm"/><style:text-properties fo:font-family="StarSymbol" style:use-window-font-color="true" fo:font-size="45%"/></text:list-level-style-bullet><text:list-level-style-bullet text:level="9" text:bullet-char="●"><style:list-level-properties text:space-before="4.8cm" text:min-label-width="0.6cm"/><style:text-properties fo:font-family="StarSymbol" style:use-window-font-color="true" fo:font-size="45%"/></text:list-level-style-bullet><text:list-level-style-bullet text:level="10" text:bullet-char="●"><style:list-level-properties text:space-before="5.4cm" text:min-label-width="0.6cm"/><style:text-properties fo:font-family="StarSymbol" style:use-window-font-color="true" fo:font-size="45%"/></text:list-level-style-bullet></text:list-style></office:automatic-styles><office:master-styles><draw:layer-set><draw:layer draw:name="layout"/><draw:layer draw:name="background"/><draw:layer draw:name="backgroundobjects"/><draw:layer draw:name="controls"/><draw:layer draw:name="measurelines"/></draw:layer-set><style:master-page style:name="Default" style:page-layout-name="PM0" draw:style-name="dp1"/></office:master-styles><office:body><office:drawing><draw:page draw:name="page1" draw:style-name="dp2" draw:master-page-name="Default"><draw:custom-shape draw:style-name="gr1" draw:text-style-name="P2" xml:id="id2" draw:id="id2" draw:layer="layout" svg:width="1.155cm" svg:height="0.646cm" svg:x="2.21cm" svg:y="3.392cm"><text:p text:style-name="P1">2</text:p><draw:enhanced-geometry svg:viewBox="0 0 21600 21600" draw:type="rectangle" draw:enhanced-path="M 0 0 L 21600 0 21600 21600 0 21600 0 0 Z N"/></draw:custom-shape><draw:custom-shape draw:style-name="gr2" draw:text-style-name="P1" xml:id="id1" draw:id="id1" draw:layer="layout" svg:width="1.155cm" svg:height="0.647cm" svg:x="3.365cm" svg:y="1.452cm"><text:p text:style-name="P1">16</text:p><draw:enhanced-geometry svg:viewBox="0 0 21600 21600" draw:type="rectangle" draw:enhanced-path="M 0 0 L 21600 0 21600 21600 0 21600 0 0 Z N"/></draw:custom-shape><draw:custom-shape draw:style-name="gr3" draw:text-style-name="P1" xml:id="id3" draw:id="id3" draw:layer="layout" svg:width="1.155cm" svg:height="0.646cm" svg:x="4.751cm" svg:y="3.392cm"><text:p text:style-name="P1">8</text:p><draw:enhanced-geometry svg:viewBox="0 0 21600 21600" draw:type="rectangle" draw:enhanced-path="M 0 0 L 21600 0 21600 21600 0 21600 0 0 Z N"/></draw:custom-shape><draw:custom-shape draw:style-name="gr4" draw:text-style-name="P3" xml:id="id4" draw:id="id4" draw:layer="layout" svg:width="0.924cm" svg:height="0.646cm" svg:x="3.827cm" svg:y="5.115cm"><text:p text:style-name="P1">2</text:p><draw:enhanced-geometry svg:viewBox="0 0 21600 21600" draw:type="rectangle" draw:enhanced-path="M 0 0 L 21600 0 21600 21600 0 21600 0 0 Z N"/></draw:custom-shape><draw:custom-shape draw:style-name="gr5" draw:text-style-name="P1" xml:id="id5" draw:id="id5" draw:layer="layout" svg:width="0.924cm" svg:height="0.646cm" svg:x="6.137cm" svg:y="5.115cm"><text:p text:style-name="P1">4</text:p><draw:enhanced-geometry svg:viewBox="0 0 21600 21600" draw:type="rectangle" draw:enhanced-path="M 0 0 L 21600 0 21600 21600 0 21600 0 0 Z N"/></draw:custom-shape><draw:custom-shape draw:style-name="gr4" draw:text-style-name="P3" xml:id="id6" draw:id="id6" draw:layer="layout" svg:width="0.924cm" svg:height="0.646cm" svg:x="5.213cm" svg:y="6.839cm"><text:p text:style-name="P1">2</text:p><draw:enhanced-geometry svg:viewBox="0 0 21600 21600" draw:type="rectangle" draw:enhanced-path="M 0 0 L 21600 0 21600 21600 0 21600 0 0 Z N"/></draw:custom-shape><draw:custom-shape draw:style-name="gr4" draw:text-style-name="P3" xml:id="id7" draw:id="id7" draw:layer="layout" svg:width="0.924cm" svg:height="0.646cm" svg:x="7.061cm" svg:y="6.839cm"><text:p text:style-name="P1">2</text:p><draw:enhanced-geometry svg:viewBox="0 0 21600 21600" draw:type="rectangle" draw:enhanced-path="M 0 0 L 21600 0 21600 21600 0 21600 0 0 Z N"/></draw:custom-shape><draw:connector draw:style-name="gr6" draw:text-style-name="P4" draw:layer="layout" svg:x1="3.942cm" svg:y1="2.099cm" svg:x2="2.787cm" svg:y2="3.392cm" draw:start-shape="id1" draw:start-glue-point="2" draw:end-shape="id2" draw:end-glue-point="0" svg:d="M3942 2099v646h-1155v647" svg:viewBox="0 0 1156 1294"><text:p/></draw:connector><draw:connector draw:style-name="gr6" draw:text-style-name="P4" draw:layer="layout" svg:x1="3.942cm" svg:y1="2.099cm" svg:x2="5.328cm" svg:y2="3.392cm" draw:start-shape="id1" draw:start-glue-point="2" draw:end-shape="id3" svg:d="M3942 2099v646h1386v647" svg:viewBox="0 0 1387 1294"><text:p/></draw:connector><draw:connector draw:style-name="gr6" draw:text-style-name="P4" draw:layer="layout" svg:x1="5.328cm" svg:y1="4.038cm" svg:x2="4.289cm" svg:y2="5.115cm" draw:start-shape="id3" draw:end-shape="id4" svg:d="M5328 4038v539h-1039v538" svg:viewBox="0 0 1040 1078"><text:p/></draw:connector><draw:connector draw:style-name="gr6" draw:text-style-name="P4" draw:layer="layout" svg:x1="5.328cm" svg:y1="4.038cm" svg:x2="6.599cm" svg:y2="5.115cm" draw:start-shape="id3" draw:start-glue-point="2" draw:end-shape="id5" draw:end-glue-point="0" svg:d="M5328 4038v539h1271v538" svg:viewBox="0 0 1272 1078"><text:p/></draw:connector><draw:connector draw:style-name="gr6" draw:text-style-name="P4" draw:layer="layout" svg:x1="6.599cm" svg:y1="5.761cm" svg:x2="5.675cm" svg:y2="6.839cm" draw:start-shape="id5" draw:end-shape="id6" svg:d="M6599 5761v539h-924v539" svg:viewBox="0 0 925 1079"><text:p/></draw:connector><draw:connector draw:style-name="gr6" draw:text-style-name="P4" draw:layer="layout" svg:x1="6.599cm" svg:y1="5.761cm" svg:x2="7.523cm" svg:y2="6.839cm" draw:start-shape="id5" draw:end-shape="id7" svg:d="M6599 5761v539h924v539" svg:viewBox="0 0 925 1079"><text:p/></draw:connector></draw:page></office:drawing></office:body></office:document>
+     </draw:object><draw:image>
+      <office:binary-data>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
+       RU5EAAAAAAAAAACLAAEAAgAAAAMAhQABAAUAAAAa1IEAAYQAAQAFAAAAAAAAAABvAAIANgAA
+       AAEABgArFgAAPR0AAF0UAAA9HQAAXRQAALcaAAD5FwAAtxoAAPkXAAA9HQAAKxYAAD0dAAAA
+       AIwAAQAAAAAAiwABAAIAAAADAIQAAQAFAAAApGU0AAEAAgEAjgAAABUAWFBBVEhTVFJPS0Vf
+       U0VRX0JFR0lOAAAAAG8AAAABAGkAAAABADMAAAAGACsWAAA9HQAAXRQAAD0dAABdFAAAtxoA
+       APkXAAC3GgAA+RcAAD0dAAArFgAAPR0AAAABAAIAAAAAAAEAAgAAAAAAAAAAAAAAAAAAAAAA
+       AAAAAAAAAQAAAAAAAAAAAAAAAACEAAEABQAAAKRlNAABhQABAAUAAAAAAAAAAG0AAwBTAAAA
+       BgArFgAAPR0AAF0UAAA9HQAAXRQAALcaAAD5FwAAtxoAAPkXAAA9HQAAKxYAAD0dAAAEABoA
+       AAABAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAgEAHQAAABMAWFBBVEhTVFJPS0VfU0VR
+       X0VORAAAAAAAAAAAjAABAAAAAAAAAgEAIAAAABYAWFRFWFRfUEFJTlRTSEFQRV9CRUdJTgAA
+       AAAAAAAAigABAEUAAAAEAD8AAAAPAExpYmVyYXRpb24gU2FucwAAAAAAAHsCAAD//wAAAgAF
+       AAAAAAAAAAkEAAAAAAAAAAEA/wMAAAAAAAAAAACIAAEAAgAAAAEAhwABAAUAAAD/////AIYA
+       AQAEAAAAAAAAAHEAAgAeAAAAfBUAANccAAABAAAAMgAAAAEAAQAAAF8BAAABADIAAAIBABMA
+       AAAJAFhURVhUX0VPQwAAAAAAAAAAAAIBABMAAAAJAFhURVhUX0VPTAAAAAAAAAAAAAIBABMA
+       AAAJAFhURVhUX0VPUAAAAAAAAAAAAAIBAB4AAAAUAFhURVhUX1BBSU5UU0hBUEVfRU5EAAAA
+       AAAAAACLAAEAAgAAAAMAhQABAAUAAAAa1IEAAYQAAQAFAAAAAAAAAABvAAIANgAAAAEABgBj
+       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
+       AAA=
+      </office:binary-data>
+     </draw:image>
+    </draw:frame></text:p>
+   <text:h text:style-name="Heading_20_1" text:outline-level="1"><text:bookmark-start text:name="__RefHeading___Toc983_2072754361"/><text:span text:style-name="T9">Fraction</text:span><text:span text:style-name="T11">s</text:span><text:bookmark-end text:name="__RefHeading___Toc983_2072754361"/></text:h>
+   <text:p text:style-name="Text_20_body">A fraction <text:span text:style-name="T13">is a part of a whole. A fraction has a numerator and a denominator. A numerator is the top number: </text:span><text:span text:style-name="T13"><draw:frame draw:style-name="fr2" draw:name="Object14" text:anchor-type="as-char" svg:y="-0.2437in" svg:width="0.9728in" svg:height="0.3929in" draw:z-index="12"><draw:object>
+       <math xmlns="http://www.w3.org/1998/Math/MathML" display="block">
+        <semantics>
+         <mfrac>
+          <mi mathvariant="italic">numerator</mi>
+          <mi mathvariant="italic">denominator</mi>
+         </mfrac>
+         <annotation encoding="StarMath 5.0">{numerator} over {denominator} </annotation>
+        </semantics>
+       </math>
+      </draw:object><draw:image>
+       <office:binary-data>VkNMTVRGAQAxAAAAAAAAAAEAGwAAAAAAAAAAAAAAAAABAAAAAQAAAAEAAAABAAAAAagJAADm
+        AwAAHwAAAJYAAQACAAAACQCLAAEAAgAAAP//gQABABAAAAAAAAAAAAAAAKcJAADlAwAAlQAB
+        AAQAAAAAAAAAlgABAAIAAAAJAIsAAQACAAAAHwCKAAEARgAAAAQAQAAAABAATGliZXJhdGlv
+        biBTZXJpZgAAAAAAAKYBAAAAAAAAAAAFAAAAAAACAP8DAAAAAAAAAAEA/wMAAAAAAAAAAACI
+        AAEAAgAAAAEAhwABAAUAAAD/////AIYAAQAEAAAAAAAAAHIAAgAvAAAAUwEAAH0BAAAJAG51
+        bWVyYXRvcvYGAAAAAAkACQBuAHUAbQBlAHIAYQB0AG8AcgCMAAEAAAAAAIsAAQACAAAAHwCF
+        AAEABQAAAAAAAAABhAABAAUAAAAAAAAAAIoAAQBAAAAABAA6AAAACgBPcGVuU3ltYm9sAAAA
+        AAAApgEAAP//AAAAAAUAAAAAAAAA/wMAAAAAAAAAAQD/AwAAAAAAAAAAAIgAAQACAAAAAQCH
+        AAEABQAAAP////8AhgABAAQAAAAAAAAAZwABABAAAAB/AAAA5wEAADQJAAD7AQAAjAABAAAA
+        AACLAAEAAgAAAB8AigABAEYAAAAEAEAAAAAQAExpYmVyYXRpb24gU2VyaWYAAAAAAACmAQAA
+        AAAAAAAABQAAAAAAAgD/AwAAAAAAAAABAP8DAAAAAAAAAAAAiAABAAIAAAABAIcAAQAFAAAA
+        /////wCGAAEABAAAAAAAAAByAAIANQAAAJQAAACOAwAACwBkZW5vbWluYXRvcm0IAAAAAAsA
+        CwBkAGUAbgBvAG0AaQBuAGEAdABvAHIAjAABAAAAAACVAAEABAAAAAAAAACWAAEAAgAAAAkA
+        jAABAAAAAAA=
+       </office:binary-data>
+      </draw:image>
+     </draw:frame></text:span></text:p>
+   <text:h text:style-name="Heading_20_2" text:outline-level="2"><text:bookmark-start text:name="__RefHeading___Toc335_2072754361"/><text:soft-page-break/>Equivalent Fractions<text:bookmark-end text:name="__RefHeading___Toc335_2072754361"/></text:h>
+   <text:p text:style-name="P32"/>
+   <text:p text:style-name="P32">Equivalent fractions are equal. To find an equivalent fraction, multiply or divide both the numerator and denominator by the same number. </text:p>
+   <text:p text:style-name="P32"><draw:frame draw:style-name="fr2" draw:name="Object2" text:anchor-type="as-char" svg:y="-0.2437in" svg:width="0.9425in" svg:height="0.3929in" draw:z-index="1"><draw:object>
+      <math xmlns="http://www.w3.org/1998/Math/MathML" display="block">
+       <semantics>
+        <mrow>
+         <mfrac>
+          <mn>2</mn>
+          <mn>3</mn>
+         </mfrac>
+         <mo stretchy="false">=</mo>
+         <mrow>
+          <mfrac>
+           <mn>2</mn>
+           <mn>3</mn>
+          </mfrac>
+          <mo stretchy="false">∗</mo>
+          <mfrac>
+           <mn>3</mn>
+           <mn>3</mn>
+          </mfrac>
+         </mrow>
+         <mo stretchy="false">=</mo>
+         <mfrac>
+          <mn>6</mn>
+          <mn>9</mn>
+         </mfrac>
+        </mrow>
+        <annotation encoding="StarMath 5.0">{2} over {3} = { {2} over {3} * {{3}over{3}}} = {6}over{9}</annotation>
+       </semantics>
+      </math>
+     </draw:object><draw:image>
+      <office:binary-data>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
+      </office:binary-data>
+     </draw:image>
+    </draw:frame>or <draw:frame draw:style-name="fr2" draw:name="Object7" text:anchor-type="as-char" svg:y="-0.2437in" svg:width="1.1362in" svg:height="0.3929in" draw:z-index="2"><draw:object>
+      <math xmlns="http://www.w3.org/1998/Math/MathML" display="block">
+       <semantics>
+        <mrow>
+         <mfrac>
+          <mn>10</mn>
+          <mn>12</mn>
+         </mfrac>
+         <mo stretchy="false">=</mo>
+         <mrow>
+          <mfrac>
+           <mn>10</mn>
+           <mn>12</mn>
+          </mfrac>
+          <mo stretchy="false">÷</mo>
+          <mfrac>
+           <mn>2</mn>
+           <mn>2</mn>
+          </mfrac>
+         </mrow>
+         <mo stretchy="false">=</mo>
+         <mfrac>
+          <mn>5</mn>
+          <mn>6</mn>
+         </mfrac>
+        </mrow>
+        <annotation encoding="StarMath 5.0">{10} over {12} = {{10} over {12}} div {{ 2 } over { 2 }} = { 5} over {6} </annotation>
+       </semantics>
+      </math>
+     </draw:object><draw:image>
+      <office:binary-data>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
+      </office:binary-data>
+     </draw:image>
+     <svg:desc>formula</svg:desc>
+    </draw:frame></text:p>
+   <text:p text:style-name="P32"><draw:frame draw:style-name="fr2" draw:name="Object3" text:anchor-type="as-char" svg:y="-0.2437in" svg:width="0.4201in" svg:height="0.3929in" draw:z-index="3"><draw:object>
+      <math xmlns="http://www.w3.org/1998/Math/MathML" display="block">
+       <semantics>
+        <mrow>
+         <mfrac>
+          <mi>n</mi>
+          <mi>n</mi>
+         </mfrac>
+         <mo stretchy="false">=</mo>
+         <mn>1</mn>
+        </mrow>
+        <annotation encoding="StarMath 5.0">{n} over {n} =1</annotation>
+       </semantics>
+      </math>
+     </draw:object><draw:image>
+      <office:binary-data>VkNMTVRGAQAxAAAAAAAAAAEAGwAAAAAAAAAAAAAAAAABAAAAAQAAAAEAAAABAAAAASwEAADm
+       AwAALQAAAJYAAQACAAAACQCLAAEAAgAAAP//gQABABAAAAAAAAAAAAAAACsEAADlAwAAlQAB
+       AAQAAAAAAAAAlgABAAIAAAAJAIsAAQACAAAAHwCKAAEARgAAAAQAQAAAABAATGliZXJhdGlv
+       biBTZXJpZgAAAAAAAKYBAAAAAAAAAAAFAAAAAAACAP8DAAAAAAAAAAEA/wMAAAAAAAAAAACI
+       AAEAAgAAAAEAhwABAAUAAAD/////AIYAAQAEAAAAAAAAAHIAAgAXAAAAlAAAAH0BAAABAG7T
+       AAAAAAABAAEAbgCMAAEAAAAAAIsAAQACAAAAHwCFAAEABQAAAAAAAAABhAABAAUAAAAAAAAA
+       AIoAAQBAAAAABAA6AAAACgBPcGVuU3ltYm9sAAAAAAAApgEAAP//AAAAAAUAAAAAAAAA/wMA
+       AAAAAAAAAQD/AwAAAAAAAAAAAIgAAQACAAAAAQCHAAEABQAAAP////8AhgABAAQAAAAAAAAA
+       ZwABABAAAAB/AAAA5wEAAIUBAAD7AQAAjAABAAAAAACLAAEAAgAAAB8AigABAEYAAAAEAEAA
+       AAAQAExpYmVyYXRpb24gU2VyaWYAAAAAAACmAQAAAAAAAAAABQAAAAAAAgD/AwAAAAAAAAAB
+       AP8DAAAAAAAAAAAAiAABAAIAAAABAIcAAQAFAAAA/////wCGAAEABAAAAAAAAAByAAIAFwAA
+       AJQAAACOAwAAAQBu0wAAAAAAAQABAG4AjAABAAAAAACLAAEAAgAAAB8AigABAEAAAAAEADoA
+       AAAKAE9wZW5TeW1ib2wAAAAAAACmAQAA//8AAAAABQAAAAAAAAD/AwAAAAAAAAABAP8DAAAA
+       AAAAAAAAiAABAAIAAAABAIcAAQAFAAAA/////wCGAAEABAAAAAAAAAByAAIAGgAAAKcBAABm
+       AgAAAQAAAD0ATwEAAAAAAQABAD0AjAABAAAAAACLAAEAAgAAAB8AigABAEYAAAAEAEAAAAAQ
+       AExpYmVyYXRpb24gU2VyaWYAAAAAAACmAQAAAAAAAAAABQAAAAAAAAD/AwAAAAAAAAABAP8D
+       AAAAAAAAAAAAiAABAAIAAAABAIcAAQAFAAAA/////wCGAAEABAAAAAAAAAByAAIAFwAAAPoC
+       AABmAgAAAQAx0wAAAAAAAQABADEAjAABAAAAAACVAAEABAAAAAAAAACWAAEAAgAAAAkAjAAB
+       AAAAAAA=
+      </office:binary-data>
+     </draw:image>
+    </draw:frame><text:span text:style-name="T6"><text:s/></text:span></text:p>
+   <text:p text:style-name="P32"/>
+   <text:h text:style-name="Heading_20_2" text:outline-level="2"><text:bookmark-start text:name="__RefHeading___Toc337_2072754361"/>Adding, Subtracting Fractions<text:bookmark-end text:name="__RefHeading___Toc337_2072754361"/></text:h>
+   <text:p text:style-name="P37"/>
+   <text:p text:style-name="P37">Adding fractions and subtracting fractions is pretty easy because you only add or subtract the numerators- the denominators stay the same. </text:p>
+   <text:p text:style-name="P37"><draw:frame draw:style-name="fr2" draw:name="Object4" text:anchor-type="as-char" svg:y="-0.2437in" svg:width="0.7134in" svg:height="0.3929in" draw:z-index="4"><draw:object>
+      <math xmlns="http://www.w3.org/1998/Math/MathML" display="block">
+       <semantics>
+        <mrow>
+         <mrow>
+          <mfrac>
+           <mn>2</mn>
+           <mn>4</mn>
+          </mfrac>
+          <mo stretchy="false">+</mo>
+          <mfrac>
+           <mn>3</mn>
+           <mn>4</mn>
+          </mfrac>
+         </mrow>
+         <mo stretchy="false">=</mo>
+         <mfrac>
+          <mn>5</mn>
+          <mn>4</mn>
+         </mfrac>
+        </mrow>
+        <annotation encoding="StarMath 5.0">{2} over {4} + { 3 } over { 4 } = { 5 } over { 4 }
+ </annotation>
+       </semantics>
+      </math>
+     </draw:object><draw:image>
+      <office:binary-data>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
+       AQAEAAAAAAAAAJYAAQACAAAACQCMAAEAAAAAAA==
+      </office:binary-data>
+     </draw:image>
+    </draw:frame></text:p>
+   <text:p text:style-name="P31"><draw:frame draw:style-name="fr2" draw:name="Object5" text:anchor-type="as-char" svg:y="-0.2437in" svg:width="0.9654in" svg:height="0.3929in" draw:z-index="5"><draw:object>
+      <math xmlns="http://www.w3.org/1998/Math/MathML" display="block">
+       <semantics>
+        <mrow>
+         <mrow>
+          <mfrac>
+           <mn>8</mn>
+           <mn>16</mn>
+          </mfrac>
+          <mo stretchy="false">−</mo>
+          <mfrac>
+           <mn>5</mn>
+           <mn>16</mn>
+          </mfrac>
+         </mrow>
+         <mo stretchy="false">=</mo>
+         <mfrac>
+          <mn>3</mn>
+          <mn>16</mn>
+         </mfrac>
+        </mrow>
+        <annotation encoding="StarMath 5.0">{8} over {16} - { 5 } over { 16 } = { 3 } over { 16 } </annotation>
+       </semantics>
+      </math>
+     </draw:object><draw:image>
+      <office:binary-data>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
+      </office:binary-data>
+     </draw:image>
+    </draw:frame></text:p>
+   <text:p text:style-name="P44"><text:span text:style-name="T10">B</text:span><text:span text:style-name="T8">ut if the denominators are different you have to find an equivalent fraction for it. </text:span></text:p>
+   <text:p text:style-name="P42"><draw:frame draw:style-name="fr2" draw:name="Object8" text:anchor-type="as-char" svg:y="-0.2437in" svg:width="1.4272in" svg:height="0.3929in" draw:z-index="13"><draw:object>
+      <math xmlns="http://www.w3.org/1998/Math/MathML" display="block">
+       <semantics>
+        <mrow>
+         <mrow>
+          <mfrac>
+           <mn>2</mn>
+           <mn>3</mn>
+          </mfrac>
+          <mo stretchy="false">+</mo>
+          <mfrac>
+           <mn>3</mn>
+           <mn>5</mn>
+          </mfrac>
+         </mrow>
+         <mo stretchy="false">=</mo>
+         <mrow>
+          <mfrac>
+           <mn>10</mn>
+           <mn>15</mn>
+          </mfrac>
+          <mo stretchy="false">+</mo>
+          <mfrac>
+           <mn>9</mn>
+           <mn>15</mn>
+          </mfrac>
+         </mrow>
+         <mo stretchy="false">=</mo>
+         <mfrac>
+          <mn>19</mn>
+          <mn>15</mn>
+         </mfrac>
+        </mrow>
+        <annotation encoding="StarMath 5.0">{2} over {3} + {3} over {5} = { 10 }  over { 15 } + { 9 } over { 15 }  = { 19 } over { 15 } 
+</annotation>
+       </semantics>
+      </math>
+     </draw:object><draw:image>
+      <office:binary-data>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
+       AIwAAQAAAAAA
+      </office:binary-data>
+     </draw:image>
+    </draw:frame></text:p>
+   <text:p text:style-name="P42"><draw:frame draw:style-name="fr2" draw:name="Object10" text:anchor-type="as-char" svg:y="-0.2437in" svg:width="0.7319in" svg:height="0.3929in" draw:z-index="14"><draw:object>
+      <math xmlns="http://www.w3.org/1998/Math/MathML" display="block">
+       <semantics>
+        <mrow>
+         <mrow>
+          <mfrac>
+           <mn>2</mn>
+           <mn>3</mn>
+          </mfrac>
+          <mo stretchy="false">∗</mo>
+          <mn>5</mn>
+         </mrow>
+         <mo stretchy="false">=</mo>
+         <mfrac>
+          <mn>10</mn>
+          <mn>15</mn>
+         </mfrac>
+        </mrow>
+        <annotation encoding="StarMath 5.0">{2} over {3} * { 5 } = { 10 } over { 15 } </annotation>
+       </semantics>
+      </math>
+     </draw:object><draw:image>
+      <office:binary-data>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
+       AAAAlgABAAIAAAAJAIwAAQAAAAAA
+      </office:binary-data>
+     </draw:image>
+    </draw:frame><text:s text:c="5"/><draw:frame draw:style-name="fr2" draw:name="Object11" text:anchor-type="as-char" svg:y="-0.2437in" svg:width="0.7327in" svg:height="0.3929in" draw:z-index="17"><draw:object>
+      <math xmlns="http://www.w3.org/1998/Math/MathML" display="block">
+       <semantics>
+        <mrow>
+         <mrow>
+          <mfrac>
+           <mn>3</mn>
+           <mn>5</mn>
+          </mfrac>
+          <mo stretchy="false">∗</mo>
+          <mn>3</mn>
+         </mrow>
+         <mo stretchy="false">=</mo>
+         <mfrac>
+          <mn>9</mn>
+          <mn>15</mn>
+         </mfrac>
+        </mrow>
+        <annotation encoding="StarMath 5.0">{3} over {5} * { 3 } = { 9 } over { 15 }</annotation>
+       </semantics>
+      </math>
+     </draw:object><draw:image>
+      <office:binary-data>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
+       lgABAAIAAAAJAIwAAQAAAAAA
+      </office:binary-data>
+     </draw:image>
+    </draw:frame></text:p>
+   <text:h text:style-name="Heading_20_2" text:outline-level="2"><text:bookmark-start text:name="__RefHeading___Toc339_2072754361"/>Dividing, and Multiplying Fractions<text:bookmark-end text:name="__RefHeading___Toc339_2072754361"/></text:h>
+   <text:p text:style-name="P43"><text:span text:style-name="T10">W</text:span><text:span text:style-name="T8">hen you multiply fractions you multiply the denominators and the numerators together.</text:span></text:p>
+   <text:p text:style-name="P38"><draw:frame draw:style-name="fr2" draw:name="Object6" text:anchor-type="as-char" svg:y="-0.2437in" svg:width="0.7756in" svg:height="0.3929in" draw:z-index="6"><draw:object>
+      <math xmlns="http://www.w3.org/1998/Math/MathML" display="block">
+       <semantics>
+        <mrow>
+         <mrow>
+          <mfrac>
+           <mn>3</mn>
+           <mn>9</mn>
+          </mfrac>
+          <mo stretchy="false">∗</mo>
+          <mfrac>
+           <mn>4</mn>
+           <mn>9</mn>
+          </mfrac>
+         </mrow>
+         <mo stretchy="false">=</mo>
+         <mfrac>
+          <mn>12</mn>
+          <mn>81</mn>
+         </mfrac>
+        </mrow>
+        <annotation encoding="StarMath 5.0">{3} over {9} * {{ 4 } over { 9 }} = { 12 } over {81}</annotation>
+       </semantics>
+      </math>
+     </draw:object><draw:image>
+      <office:binary-data>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
+      </office:binary-data>
+     </draw:image>
+    </draw:frame></text:p>
+   <text:p text:style-name="P35">Same is for when you divide fractions.</text:p>
+   <text:p text:style-name="P36"><draw:frame draw:style-name="fr2" draw:name="Object9" text:anchor-type="as-char" svg:y="-0.2437in" svg:width="0.6535in" svg:height="0.3929in" draw:z-index="7"><draw:object>
+      <math xmlns="http://www.w3.org/1998/Math/MathML" display="block">
+       <semantics>
+        <mrow>
+         <mfrac>
+          <mn>8</mn>
+          <mn>8</mn>
+         </mfrac>
+         <mo stretchy="false">/</mo>
+         <mrow>
+          <mfrac>
+           <mn>4</mn>
+           <mn>4</mn>
+          </mfrac>
+          <mo stretchy="false">=</mo>
+          <mfrac>
+           <mn>2</mn>
+           <mn>2</mn>
+          </mfrac>
+         </mrow>
+        </mrow>
+        <annotation encoding="StarMath 5.0">{8} over {8} / { 4 over {4} = { 2} over {2 } }</annotation>
+       </semantics>
+      </math>
+     </draw:object><draw:image>
+      <office:binary-data>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
+       AQAEAAAAAAAAAJYAAQACAAAACQCMAAEAAAAAAA==
+      </office:binary-data>
+     </draw:image>
+    </draw:frame></text:p>
+   <text:p text:style-name="P32"/>
+   <text:h text:style-name="P16" text:outline-level="1"><text:bookmark-start text:name="__RefHeading___Toc341_2072754361"/><text:soft-page-break/>Mixed numbers &amp; Improper Fractions<text:bookmark-end text:name="__RefHeading___Toc341_2072754361"/></text:h>
+   <text:p text:style-name="P46"/>
+   <text:h text:style-name="Heading_20_2" text:outline-level="2"><text:bookmark-start text:name="__RefHeading___Toc985_2072754361"/>Mixed Numbers<text:bookmark-end text:name="__RefHeading___Toc985_2072754361"/></text:h>
+   <text:p text:style-name="P45">A mixed number is a fraction that has a whole number and a fraction. Example: <draw:frame draw:style-name="fr2" draw:name="Object12" text:anchor-type="as-char" svg:y="-0.2437in" svg:width="0.3055in" svg:height="0.3929in" draw:z-index="15"><draw:object>
+      <math xmlns="http://www.w3.org/1998/Math/MathML" display="block">
+       <semantics>
+        <mrow>
+         <mn>1</mn>
+         <mfrac>
+          <mn>2</mn>
+          <mn>4</mn>
+         </mfrac>
+        </mrow>
+        <annotation encoding="StarMath 5.0"> 1 {2} over {4} </annotation>
+       </semantics>
+      </math>
+     </draw:object><draw:image>
+      <office:binary-data>VkNMTVRGAQAxAAAAAAAAAAEAGwAAAAAAAAAAAAAAAAABAAAAAQAAAAEAAAABAAAAAQgDAADm
+       AwAAJgAAAJYAAQACAAAACQCLAAEAAgAAAP//gQABABAAAAAAAAAAAAAAAAcDAADlAwAAlQAB
+       AAQAAAAAAAAAlgABAAIAAAAJAIsAAQACAAAAHwCKAAEARgAAAAQAQAAAABAATGliZXJhdGlv
+       biBTZXJpZgAAAAAAAKYBAAAAAAAAAAAFAAAAAAAAAP8DAAAAAAAAAAEA/wMAAAAAAAAAAACI
+       AAEAAgAAAAEAhwABAAUAAAD/////AIYAAQAEAAAAAAAAAHIAAgAXAAAAagAAAGYCAAABADHT
+       AAAAAAABAAEAMQCMAAEAAAAAAIsAAQACAAAAHwCKAAEARgAAAAQAQAAAABAATGliZXJhdGlv
+       biBTZXJpZgAAAAAAAKYBAAAAAAAAAAAFAAAAAAAAAP8DAAAAAAAAAAEA/wMAAAAAAAAAAACI
+       AAEAAgAAAAEAhwABAAUAAAD/////AIYAAQAEAAAAAAAAAHIAAgAXAAAAkgEAAH0BAAABADLT
+       AAAAAAABAAEAMgCMAAEAAAAAAIsAAQACAAAAHwCFAAEABQAAAAAAAAABhAABAAUAAAAAAAAA
+       AIoAAQBAAAAABAA6AAAACgBPcGVuU3ltYm9sAAAAAAAApgEAAP//AAAAAAUAAAAAAAAA/wMA
+       AAAAAAAAAQD/AwAAAAAAAAAAAIgAAQACAAAAAQCHAAEABQAAAP////8AhgABAAQAAAAAAAAA
+       ZwABABAAAAB9AQAA5wEAAJUCAAD7AQAAjAABAAAAAACLAAEAAgAAAB8AigABAEYAAAAEAEAA
+       AAAQAExpYmVyYXRpb24gU2VyaWYAAAAAAACmAQAAAAAAAAAABQAAAAAAAAD/AwAAAAAAAAAB
+       AP8DAAAAAAAAAAAAiAABAAIAAAABAIcAAQAFAAAA/////wCGAAEABAAAAAAAAAByAAIAFwAA
+       AJIBAACOAwAAAQA00wAAAAAAAQABADQAjAABAAAAAACVAAEABAAAAAAAAACWAAEAAgAAAAkA
+       jAABAAAAAAA=
+      </office:binary-data>
+     </draw:image>
+    </draw:frame></text:p>
+   <text:p text:style-name="P45"/>
+   <text:p text:style-name="P32"><draw:custom-shape text:anchor-type="paragraph" draw:z-index="8" draw:name="Shape1" draw:style-name="gr3" draw:text-style-name="P77" svg:width="0.5752in" svg:height="0.5752in" svg:x="-0.2126in" svg:y="0.139in">
+     <text:p/>
+     <draw:enhanced-geometry svg:viewBox="0 0 21600 21600" draw:glue-points="10800 0 3163 3163 0 10800 3163 18437 10800 21600 18437 18437 21600 10800 18437 3163" draw:text-areas="3163 3163 18437 18437" draw:type="ellipse" draw:enhanced-path="U 10800 10800 10800 10800 0 360 Z N"/>
+    </draw:custom-shape><draw:custom-shape text:anchor-type="paragraph" draw:z-index="9" draw:name="Shape2_0" draw:style-name="gr2" draw:text-style-name="P78" svg:width="0.6087in" svg:height="0.6087in" svg:x="0.9126in" svg:y="0.0807in">
+     <text:p/>
+     <draw:enhanced-geometry svg:viewBox="0 0 21600 21600" draw:glue-points="10800 0 3163 3163 0 10800 3163 18437 10800 21600 18437 18437 21600 10800 18437 3163" draw:text-areas="3163 3163 18437 18437" draw:type="ellipse" draw:enhanced-path="U 10800 10800 10800 10800 0 360 Z N"/>
+    </draw:custom-shape><draw:line text:anchor-type="paragraph" draw:z-index="10" draw:name="Shape3" draw:style-name="gr1" draw:text-style-name="P77" svg:x1="1.1791in" svg:y1="0.0555in" svg:x2="1.2374in" svg:y2="0.689in">
+     <text:p/>
+    </draw:line></text:p>
+   <text:p text:style-name="P32"><draw:line text:anchor-type="paragraph" draw:z-index="11" draw:name="Shape4" draw:style-name="gr1" draw:text-style-name="P77" svg:x1="0.9126in" svg:y1="0.0543in" svg:x2="1.5209in" svg:y2="0.0543in">
+     <text:p/>
+    </draw:line></text:p>
+   <text:p text:style-name="P32"/>
+   <text:h text:style-name="Heading_20_2" text:outline-level="2"><text:bookmark-start text:name="__RefHeading___Toc987_2072754361"/>Improper Fractions<text:bookmark-end text:name="__RefHeading___Toc987_2072754361"/></text:h>
+   <text:p text:style-name="P45">An improper fraction has a bigger numerator than denominator- you can turn Improper fraction into Mixed numbers- same you can do for Mixed numbers. Example: <draw:frame draw:style-name="fr2" draw:name="Object13" text:anchor-type="as-char" svg:y="-0.2437in" svg:width="0.278in" svg:height="0.3929in" draw:z-index="16"><draw:object>
+      <math xmlns="http://www.w3.org/1998/Math/MathML" display="block">
+       <semantics>
+        <mfrac>
+         <mn>12</mn>
+         <mn>6</mn>
+        </mfrac>
+        <annotation encoding="StarMath 5.0">{12} over {6} </annotation>
+       </semantics>
+      </math>
+     </draw:object><draw:image>
+      <office:binary-data>VkNMTVRGAQAxAAAAAAAAAAEAGwAAAAAAAAAAAAAAAAABAAAAAQAAAAEAAAABAAAAAcICAADm
+       AwAAHwAAAJYAAQACAAAACQCLAAEAAgAAAP//gQABABAAAAAAAAAAAAAAAMECAADlAwAAlQAB
+       AAQAAAAAAAAAlgABAAIAAAAJAIsAAQACAAAAHwCKAAEARgAAAAQAQAAAABAATGliZXJhdGlv
+       biBTZXJpZgAAAAAAAKYBAAAAAAAAAAAFAAAAAAAAAP8DAAAAAAAAAAEA/wMAAAAAAAAAAACI
+       AAEAAgAAAAEAhwABAAUAAAD/////AIYAAQAEAAAAAAAAAHIAAgAaAAAAlAAAAH0BAAACADEy
+       pgEAAAAAAgACADEAMgCMAAEAAAAAAIsAAQACAAAAHwCFAAEABQAAAAAAAAABhAABAAUAAAAA
+       AAAAAIoAAQBAAAAABAA6AAAACgBPcGVuU3ltYm9sAAAAAAAApgEAAP//AAAAAAUAAAAAAAAA
+       /wMAAAAAAAAAAQD/AwAAAAAAAAAAAIgAAQACAAAAAQCHAAEABQAAAP////8AhgABAAQAAAAA
+       AAAAZwABABAAAAB/AAAA5wEAAE4CAAD7AQAAjAABAAAAAACLAAEAAgAAAB8AigABAEYAAAAE
+       AEAAAAAQAExpYmVyYXRpb24gU2VyaWYAAAAAAACmAQAAAAAAAAAABQAAAAAAAAD/AwAAAAAA
+       AAABAP8DAAAAAAAAAAAAiAABAAIAAAABAIcAAQAFAAAA/////wCGAAEABAAAAAAAAAByAAIA
+       FwAAAP4AAACOAwAAAQA20wAAAAAAAQABADYAjAABAAAAAACVAAEABAAAAAAAAACWAAEAAgAA
+       AAkAjAABAAAAAAA=
+      </office:binary-data>
+     </draw:image>
+    </draw:frame></text:p>
+   <text:p text:style-name="P32"/>
+   <text:h text:style-name="P56" text:outline-level="1"><text:bookmark-start text:name="__RefHeading___Toc343_2072754361"/>Area<text:bookmark-end text:name="__RefHeading___Toc343_2072754361"/></text:h>
+   <text:p text:style-name="P27">Area is something inside a shape. This is the formula, but it only works for squares and rectangles: w * h = <text:span text:style-name="T4">A</text:span></text:p>
+   <text:h text:style-name="Heading_20_1" text:outline-level="1"><text:bookmark-start text:name="__RefHeading___Toc345_2072754361"/>Perimeter<text:bookmark-end text:name="__RefHeading___Toc345_2072754361"/></text:h>
+   <text:p text:style-name="P27">Perimeter is something on the outside or a shape. This is the formula, but it only works for squares and rectangles: w * 2 + h * 2 = <text:span text:style-name="T4">P</text:span></text:p>
+   <text:h text:style-name="P11" text:outline-level="1"><text:bookmark-start text:name="__RefHeading___Toc347_2072754361"/><text:span text:style-name="T4">Distributive </text:span>Property <text:bookmark-end text:name="__RefHeading___Toc347_2072754361"/></text:h>
+   <text:p text:style-name="P33">You can multiply a sum by a number, or multiply each addend by the number then add the products the result is the same. </text:p>
+   <text:p text:style-name="P33">3 * (2 + 4) = (3 * 2) + (3 * 4)</text:p>
+   <text:p text:style-name="P33">3 * 6 = 6 + 12</text:p>
+   <text:p text:style-name="P33"><text:s text:c="4"/>18 = 18</text:p>
+   <text:h text:style-name="P12" text:outline-level="1"><text:bookmark-start text:name="__RefHeading___Toc349_2072754361"/>Commutative Property<text:bookmark-end text:name="__RefHeading___Toc349_2072754361"/></text:h>
+   <text:p text:style-name="P33">Changing the order of factors does not change the product. You cant use this for subtraction or division though.</text:p>
+   <text:p text:style-name="P60">Addition:</text:p>
+   <text:p text:style-name="P34">3 + 8 = 11</text:p>
+   <text:p text:style-name="P34">8 + 3 = 11</text:p>
+   <text:p text:style-name="P60">Multiplication:</text:p>
+   <text:p text:style-name="P34">3 * 8 = 24</text:p>
+   <text:p text:style-name="P34">8 * 3 = 24</text:p>
+   <text:h text:style-name="P13" text:outline-level="1"><text:bookmark-start text:name="__RefHeading___Toc351_2072754361"/>Associative Property<text:bookmark-end text:name="__RefHeading___Toc351_2072754361"/></text:h>
+   <text:p text:style-name="P34">Grouping the numbers in different ways does not change the sum.</text:p>
+   <text:p text:style-name="P34"/>
+   <text:p text:style-name="P60"><text:soft-page-break/>Addition:</text:p>
+   <text:p text:style-name="P34">3 + (5 + 7) = 15</text:p>
+   <text:p text:style-name="P34">(3 + 5) + 7 = 15</text:p>
+   <text:p text:style-name="P60">Multiplication:</text:p>
+   <text:p text:style-name="P34">3 * ( 5 * 7) = 105</text:p>
+   <text:p text:style-name="P34">(3 * 5) * 7 = 105</text:p>
+   <text:p text:style-name="P34"/>
+   <text:h text:style-name="P17" text:outline-level="1"><text:bookmark-start text:name="__RefHeading___Toc353_2072754361"/>Multiple<text:bookmark-end text:name="__RefHeading___Toc353_2072754361"/></text:h>
+   <text:p text:style-name="P47">A number that is the product of a given number and any whole number.</text:p>
+   <text:p text:style-name="P47">Examples:</text:p>
+   <text:p text:style-name="P47">4 * 1 = 4, so 4 is a multiple of 4.</text:p>
+   <text:p text:style-name="P47">4 * 2 = 8, so 8 is a multiple of 4.</text:p>
+   <text:p text:style-name="P40"/>
+   <text:h text:style-name="P18" text:outline-level="1">Sets</text:h>
+   <text:p text:style-name="P48">A set is a collection of items, numbers, dots, shapes, etc. An example of a set is {1,5,3,8,4}</text:p>
+   <text:p text:style-name="P49"><draw:frame draw:style-name="fr1" draw:name="Object15" text:anchor-type="as-char" svg:y="-0.1484in" svg:width="1.0693in" svg:height="0.1937in" draw:z-index="18"><draw:object>
+      <math xmlns="http://www.w3.org/1998/Math/MathML" display="block">
+       <semantics>
+        <mrow>
+         <mn>12</mn>
+         <mo stretchy="false">∈</mo>
+         <mrow>
+          <mo stretchy="false">{</mo>
+          <mn>2,3,12,4</mn>
+          <mo stretchy="false">}</mo>
+         </mrow>
+        </mrow>
+        <annotation encoding="StarMath 5.0">{12} in {\{2,3,12,4\}}</annotation>
+       </semantics>
+      </math>
+     </draw:object><draw:image>
+      <office:binary-data>VkNMTVRGAQAxAAAAAAAAAAEAGwAAAAAAAAAAAAAAAAABAAAAAQAAAAEAAAABAAAAAZ0KAADs
+       AQAAKwAAAJYAAQACAAAACQCLAAEAAgAAAP//gQABABAAAAAAAAAAAAAAAJwKAADrAQAAlQAB
+       AAQAAAAAAAAAlgABAAIAAAAJAIsAAQACAAAAHwCKAAEARgAAAAQAQAAAABAATGliZXJhdGlv
+       biBTZXJpZgAAAAAAAKYBAAAAAAAAAAAFAAAAAAAAAP8DAAAAAAAAAAEA/wMAAAAAAAAAAACI
+       AAEAAgAAAAEAhwABAAUAAAD/////AIYAAQAEAAAAAAAAAHIAAgAaAAAAagAAAH0BAAACADEy
+       pgEAAAAAAgACADEAMgCMAAEAAAAAAIsAAQACAAAAHwCKAAEAQAAAAAQAOgAAAAoAT3BlblN5
+       bWJvbAAAAAAAAKYBAAD//wAAAAAFAAAAAAAAAP8DAAAAAAAAAAEA/wMAAAAAAAAAAACIAAEA
+       AgAAAAEAhwABAAUAAAD/////AIYAAQAEAAAAAAAAAHIAAgAaAAAAJgIAAH0BAAABAAAACCIt
+       AQAAAAABAAEACCKMAAEAAAAAAIsAAQACAAAAHwCKAAEAQAAAAAQAOgAAAAoAT3BlblN5bWJv
+       bAAAAAAAAKYBAAD//wAAAAAFAAAAAAAAAP8DAAAAAAAAAAEA/wMAAAAAAAAAAACIAAEAAgAA
+       AAEAhwABAAUAAAD/////AIYAAQAEAAAAAAAAAHIAAgAaAAAATwMAAH0BAAABAAAAewChAAAA
+       AAABAAEAewCMAAEAAAAAAIsAAQACAAAAHwCKAAEARgAAAAQAQAAAABAATGliZXJhdGlvbiBT
+       ZXJpZgAAAAAAAKYBAAAAAAAAAAAFAAAAAAAAAP8DAAAAAAAAAAEA/wMAAAAAAAAAAACIAAEA
+       AgAAAAEAhwABAAUAAAD/////AIYAAQAEAAAAAAAAAHIAAgAsAAAA+AMAAH0BAAAIADIsMywx
+       Miw0XAUAAAAACAAIADIALAAzACwAMQAyACwANACMAAEAAAAAAIsAAQACAAAAHwCKAAEAQAAA
+       AAQAOgAAAAoAT3BlblN5bWJvbAAAAAAAAKYBAAD//wAAAAAFAAAAAAAAAP8DAAAAAAAAAAEA
+       /wMAAAAAAAAAAACIAAEAAgAAAAEAhwABAAUAAAD/////AIYAAQAEAAAAAAAAAHIAAgAaAAAA
+       lwkAAH0BAAABAAAAfQChAAAAAAABAAEAfQCMAAEAAAAAAJUAAQAEAAAAAAAAAJYAAQACAAAA
+       CQCMAAEAAAAAAA==
+      </office:binary-data>
+     </draw:image>
+    </draw:frame>means that <text:span text:style-name="T16">12 in member of set {2,3,12,4}</text:span></text:p>
+   <text:p text:style-name="P76"><draw:frame draw:style-name="fr1" draw:name="Object16" text:anchor-type="as-char" svg:y="-0.1484in" svg:width="0.989in" svg:height="0.1937in" draw:z-index="19"><draw:object>
+      <math xmlns="http://www.w3.org/1998/Math/MathML" display="block">
+       <semantics>
+        <mrow>
+         <mn>5</mn>
+         <mo stretchy="false">∉</mo>
+         <mrow>
+          <mo stretchy="false">{</mo>
+          <mn>2,3,12,4</mn>
+          <mo stretchy="false">}</mo>
+         </mrow>
+        </mrow>
+        <annotation encoding="StarMath 5.0">{5} notin {\{2,3,12,4\}}</annotation>
+       </semantics>
+      </math>
+     </draw:object><draw:image>
+      <office:binary-data>VkNMTVRGAQAxAAAAAAAAAAEAGwAAAAAAAAAAAAAAAAABAAAAAQAAAAEAAAABAAAAAdAJAADs
+       AQAAKwAAAJYAAQACAAAACQCLAAEAAgAAAP//gQABABAAAAAAAAAAAAAAAM8JAADrAQAAlQAB
+       AAQAAAAAAAAAlgABAAIAAAAJAIsAAQACAAAAHwCKAAEARgAAAAQAQAAAABAATGliZXJhdGlv
+       biBTZXJpZgAAAAAAAKYBAAAAAAAAAAAFAAAAAAAAAP8DAAAAAAAAAAEA/wMAAAAAAAAAAACI
+       AAEAAgAAAAEAhwABAAUAAAD/////AIYAAQAEAAAAAAAAAHIAAgAXAAAAagAAAH0BAAABADXT
+       AAAAAAABAAEANQCMAAEAAAAAAIsAAQACAAAAHwCKAAEAQAAAAAQAOgAAAAoAT3BlblN5bWJv
+       bAAAAAAAAKYBAAD//wAAAAAFAAAAAAAAAP8DAAAAAAAAAAEA/wMAAAAAAAAAAACIAAEAAgAA
+       AAEAhwABAAUAAAD/////AIYAAQAEAAAAAAAAAHIAAgAaAAAAUwEAAH0BAAABAAAACSItAQAA
+       AAABAAEACSKMAAEAAAAAAIsAAQACAAAAHwCKAAEAQAAAAAQAOgAAAAoAT3BlblN5bWJvbAAA
+       AAAAAKYBAAD//wAAAAAFAAAAAAAAAP8DAAAAAAAAAAEA/wMAAAAAAAAAAACIAAEAAgAAAAEA
+       hwABAAUAAAD/////AIYAAQAEAAAAAAAAAHIAAgAaAAAAkAIAAH0BAAABAAAAewChAAAAAAAB
+       AAEAewCMAAEAAAAAAIsAAQACAAAAHwCKAAEARgAAAAQAQAAAABAATGliZXJhdGlvbiBTZXJp
+       ZgAAAAAAAKYBAAAAAAAAAAAFAAAAAAAAAP8DAAAAAAAAAAEA/wMAAAAAAAAAAACIAAEAAgAA
+       AAEAhwABAAUAAAD/////AIYAAQAEAAAAAAAAAHIAAgAsAAAAOgMAAH0BAAAIADIsMywxMiw0
+       XAUAAAAACAAIADIALAAzACwAMQAyACwANACMAAEAAAAAAIsAAQACAAAAHwCKAAEAQAAAAAQA
+       OgAAAAoAT3BlblN5bWJvbAAAAAAAAKYBAAD//wAAAAAFAAAAAAAAAP8DAAAAAAAAAAEA/wMA
+       AAAAAAAAAACIAAEAAgAAAAEAhwABAAUAAAD/////AIYAAQAEAAAAAAAAAHIAAgAaAAAAxAgA
+       AH0BAAABAAAAfQChAAAAAAABAAEAfQCMAAEAAAAAAJUAAQAEAAAAAAAAAJYAAQACAAAACQCM
+       AAEAAAAAAA==
+      </office:binary-data>
+     </draw:image>
+     <svg:desc>formula</svg:desc>
+    </draw:frame>means that <text:span text:style-name="T16">12 not a member of set {2,3,12,4}</text:span></text:p>
+   <text:p text:style-name="P41"/>
+   <text:p text:style-name="P40"/>
+   <text:p text:style-name="P40"/>
+   <text:p text:style-name="P39"/>
+   <text:p text:style-name="P25"/>
+   <text:p text:style-name="P24"/>
+  </office:text>
+ </office:body>
+</office:document>
