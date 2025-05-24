@@ -1,4 +1,4 @@
-This is a math book covering many different math topics.
+This is a math book covering many different math topics which I learned over the years.
 
 This book is written using Libre Office so to open the book you can use Libre Office (maybe Microsoft Word could work)
 
